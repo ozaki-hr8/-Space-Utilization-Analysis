@@ -1,0 +1,2598 @@
+Id,x,y,Expression,Action,Gesture,Interaction
+person1,182,234,Neutral,Sitting,Down,Reading Book
+person1,176,224,Neutral,Sitting,Down,Reading Book
+person1,174,218,Neutral,Sitting,Down,Reading Book
+person1,174,214,Neutral,Sitting,Down,Reading Book
+person1,173,208,Neutral,Sitting,Down,Reading Book
+person1,173,205,Neutral,Sitting,Down,Reading Book
+person1,166,213,Neutral,Sitting,Down,Reading Book
+person1,158,264,Sad,Sitting,Down,Reading Book
+person1,159,277,Neutral,Sitting,Down,Reading Book
+person1,169,307,Neutral,Sitting,Down,Reading Book
+person1,187,382,Neutral,Sitting,Down,Reading Book
+person1,195,423,Neutral,Sitting,Down,Reading Book
+person1,205,431,Neutral,Sitting,Down,Reading Book
+person1,217,430,Neutral,Sitting,Down,Reading Book
+person1,235,411,Neutral,Sitting,Down,Reading Book
+person1,248,401,Sad,Sitting,Down,Reading Book
+person1,258,404,Neutral,Sitting,Down,Reading Book
+person1,265,410,Neutral,Sitting,Down,Reading Book
+person1,274,419,Neutral,Sitting,Down,Reading Book
+person1,278,424,Sad,Sitting,Down,Reading Book
+person1,278,419,Sad,Sitting,Down,Reading Book
+person1,279,418,Sad,Sitting,Down,Reading Book
+person1,280,396,Sad,Sitting,Down,Reading Book
+person1,275,360,Sad,Sitting,Down,Reading Book
+person1,271,342,Sad,Sitting,Down,Reading Book
+person1,261,334,Sad,Sitting,Down,Reading Book
+person1,247,343,Neutral,Sitting,Down,Reading Book
+person1,233,346,Neutral,Sitting,Down,Reading Book
+person1,219,347,Happy,Sitting,Down,Reading Book
+person1,206,341,Happy,Sitting,Down,Reading Book
+person1,196,332,Happy,Sitting,Down,Reading Book
+person1,186,326,Happy,Sitting,Down,Reading Book
+person1,184,322,Happy,Sitting,Down,Reading Book
+person1,186,329,Happy,Sitting,Down,Reading Book
+person1,193,364,Sad,Standing,Both Hands Up,Reading Book
+person1,199,424,Sad,Standing,Both Hands Up,Reading Book
+person1,206,451,Sad,Standing,Both Hands Up,Reading Book
+person1,215,453,Neutral,Standing,Both Hands Up,Reading Book
+person1,224,438,Neutral,Sitting,Both Hands Up,Reading Book
+person1,230,432,Neutral,Sitting,Both Hands Up,Reading Book
+person1,228,407,Neutral,Standing,Down,None
+person1,218,389,Neutral,Walking,Down,None
+person1,203,380,Neutral,Walking,Down,None
+person1,190,366,Sad,Sitting,Down,None
+person1,177,331,Sad,Sitting,Down,Reading Book
+person1,162,274,Sad,Sitting,Down,Reading Book
+person1,150,174,Sad,Walking,Down,Reading Book
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,133,56,Sad,Sitting,Both Hands Up,Reading Book
+person1,136,56,Sad,Sitting,Down,Reading Book
+person1,146,64,Neutral,Walking,Down,Reading Book
+person1,161,156,Neutral,Sitting,Down,Reading Book
+person1,175,218,Neutral,Sitting,Down,Reading Book
+person1,185,252,Neutral,Sitting,Down,Reading Book
+person1,191,253,Neutral,Sitting,Down,Reading Book
+person1,191,252,Neutral,Sitting,Down,Reading Book
+person1,184,258,Neutral,Sitting,Down,Reading Book
+person1,177,266,Neutral,Sitting,Down,Reading Book
+person1,167,284,Sad,Sitting,Down,Reading Book
+person1,163,283,Sad,Sitting,Down,Reading Book
+person1,166,282,Neutral,Sitting,Down,Reading Book
+person1,169,269,Neutral,Sitting,Down,Reading Book
+person1,173,262,Neutral,Sitting,Down,Reading Book
+person1,175,259,Neutral,Sitting,Down,Reading Book
+person1,174,231,Sad,Sitting,Down,Reading Book
+person1,172,194,Sad,Walking,Down,Reading Book
+person1,163,127,Sad,Walking,Down,Reading Book
+person1,156,67,None,Walking,Down,Reading Book
+person1,156,52,Sad,Walking,Down,Reading Book
+person1,155,48,Sad,Walking,Down,Reading Book
+person1,153,52,Sad,Sitting,Down,Reading Book
+person1,148,41,Sad,Walking,Down,Reading Book
+person1,146,71,Sad,Walking,Down,Reading Book
+person1,145,170,Sad,Sitting,Down,Reading Book
+person1,151,296,Sad,Sitting,Down,Reading Book
+person1,162,385,Sad,Sitting,Down,Reading Book
+person1,171,427,Sad,Sitting,Down,Reading Book
+person1,175,476,Sad,Sitting,Down,Reading Book
+person1,180,532,Sad,Sitting,Down,Reading Book
+person1,187,602,None,Walking,Down,Reading Book
+person1,202,592,None,Walking,Down,Reading Book
+person1,208,572,None,Walking,Down,Reading Book
+person1,228,548,None,Walking,Down,Reading Book
+person1,239,537,None,Walking,Down,Reading Book
+person1,246,521,None,Walking,Down,Reading Book
+person1,259,524,Sad,Walking,Down,Reading Book
+person1,278,515,Sad,Walking,Down,Reading Book
+person1,288,522,None,Walking,Down,Reading Book
+person1,300,532,Sad,Walking,Down,Reading Book
+person1,307,551,None,Sitting,Down,Reading Book
+person1,317,564,Sad,Sitting,Down,Reading Book
+person1,334,562,Sad,Sitting,Down,Reading Book
+person1,342,553,Sad,Sitting,Down,Reading Book
+person1,357,524,Sad,Walking,Down,Reading Book
+person1,373,497,Sad,Walking,Down,Reading Book
+person1,377,497,None,Walking,Down,Reading Book
+person1,387,468,None,Walking,Down,Reading Book
+person1,381,459,None,Walking,Down,Reading Book
+person1,382,449,None,Walking,Down,Reading Book
+person1,370,438,None,Walking,Down,Reading Book
+person1,368,423,Sad,Walking,Down,Reading Book
+person1,364,399,Neutral,Walking,Down,Reading Book
+person1,354,378,Neutral,Walking,Down,Reading Book
+person1,346,371,Neutral,Walking,Down,Reading Book
+person1,339,373,Neutral,Walking,Down,Reading Book
+person1,332,386,Neutral,Walking,Down,Reading Book
+person1,334,394,Sad,Walking,Down,None
+person1,317,419,Neutral,Walking,Down,None
+person1,306,441,Neutral,Walking,Down,None
+person1,297,452,Sad,Walking,Down,None
+person1,284,459,Sad,Walking,Down,None
+person1,267,470,Sad,Sitting,Down,None
+person1,251,476,Sad,Walking,Down,None
+person1,234,483,Sad,Walking,Down,None
+person1,219,480,Sad,Walking,Down,None
+person1,203,468,Sad,Walking,Down,None
+person1,194,427,Sad,Walking,Down,None
+person1,179,388,Sad,Walking,Down,None
+person1,163,319,Sad,Walking,Down,None
+person1,150,259,None,Walking,Down,None
+person1,143,198,None,Walking,Down,Reading Book
+person1,139,161,None,Walking,Down,Reading Book
+person1,178,91,Neutral,Walking,Down,Reading Book
+person1,181,110,Neutral,Sitting,Down,Reading Book
+person1,194,144,Neutral,Sitting,Down,Reading Book
+person1,211,170,Neutral,Sitting,Down,Reading Book
+person1,223,198,Neutral,Sitting,Down,Reading Book
+person1,228,229,Neutral,Sitting,Down,Reading Book
+person1,235,283,Neutral,Sitting,Down,Reading Book
+person1,239,335,Neutral,Sitting,Down,Reading Book
+person1,243,370,Neutral,Sitting,Down,Reading Book
+person1,241,364,Neutral,Sitting,Down,Reading Book
+person1,244,361,Neutral,Sitting,Down,Reading Book
+person1,242,362,Neutral,Sitting,Down,Reading Book
+person1,242,366,Neutral,Sitting,Down,Reading Book
+person1,247,375,Neutral,Sitting,Down,Reading Book
+person1,259,381,Neutral,Sitting,Down,Reading Book
+person1,275,376,Neutral,Walking,Down,Reading Book
+person1,285,367,Neutral,Walking,Down,Reading Book
+person1,66,367,None,Walking,Down,Reading Book
+person1,307,387,Neutral,Walking,Down,Reading Book
+person1,312,407,Neutral,Walking,Down,Reading Book
+person1,311,434,Neutral,Walking,Down,Reading Book
+person1,316,449,Neutral,Walking,Down,Reading Book
+person1,323,452,Sad,Walking,Down,Reading Book
+person1,335,449,None,Walking,Down,Reading Book
+person1,342,447,None,Walking,Down,Reading Book
+person1,349,441,None,Walking,Down,Reading Book
+person1,357,439,None,Walking,Down,Reading Book
+person1,357,438,None,Walking,Down,Reading Book
+person1,365,437,None,Walking,Down,Reading Book
+person1,361,437,None,Walking,Down,Reading Book
+person1,359,437,None,Walking,Down,Reading Book
+person1,353,435,None,Walking,Down,Reading Book
+person1,349,434,Sad,Walking,Down,Reading Book
+person1,340,441,Neutral,Walking,Down,Reading Book
+person1,334,447,Neutral,Walking,Down,Reading Book
+person1,323,453,Happy,Walking,Down,Reading Book
+person1,313,458,Sad,Walking,Down,Reading Book
+person1,307,458,Sad,Walking,Down,Reading Book
+person1,302,449,Happy,Walking,Down,Reading Book
+person1,298,435,Happy,Walking,Down,Reading Book
+person1,295,427,Sad,Walking,Down,Reading Book
+person1,295,430,Sad,Walking,Down,Reading Book
+person1,290,437,Sad,Walking,Down,Reading Book
+person1,295,441,Sad,Walking,Down,Reading Book
+person1,293,445,Happy,Walking,Down,Reading Book
+person1,295,447,Happy,Walking,Down,Reading Book
+person1,297,447,Sad,Walking,Down,Reading Book
+person1,296,448,None,Walking,Down,Reading Book
+person1,295,448,None,Walking,Down,Reading Book
+person1,295,448,Sad,Walking,Down,Reading Book
+person1,297,448,Sad,Walking,Down,Reading Book
+person1,297,448,None,Walking,Down,Reading Book
+person1,296,448,Sad,Walking,Down,Reading Book
+person1,297,448,None,Sitting,Down,Reading Book
+person1,297,448,None,Sitting,Down,Reading Book
+person1,296,448,None,Sitting,Down,Reading Book
+person1,296,448,Sad,Sitting,Down,Reading Book
+person1,293,448,Sad,Sitting,Down,Reading Book
+person1,296,448,Sad,Sitting,Down,Reading Book
+person1,293,448,Sad,Walking,Down,Reading Book
+person1,289,448,Sad,Sitting,Down,Reading Book
+person1,292,448,None,Walking,Down,Reading Book
+person1,286,449,None,Walking,Down,Reading Book
+person1,286,449,None,Walking,Down,Reading Book
+person1,287,451,None,Walking,Down,Reading Book
+person1,284,453,None,Walking,Down,Reading Book
+person1,285,454,None,Sitting,Down,Reading Book
+person1,284,456,Sad,Sitting,Down,Reading Book
+person1,286,464,Sad,Sitting,Down,Reading Book
+person1,292,463,Sad,Walking,Down,Reading Book
+person1,307,438,Sad,Walking,Down,Reading Book
+person1,315,407,Sad,Walking,Down,Reading Book
+person1,329,391,Sad,Walking,Down,Reading Book
+person1,332,385,Sad,Walking,Down,Reading Book
+person1,332,395,Sad,Walking,Down,Reading Book
+person1,334,404,None,Walking,Down,Reading Book
+person1,335,408,None,Walking,Down,Reading Book
+person1,339,410,Sad,Walking,Down,Reading Book
+person1,336,417,None,Walking,Down,Reading Book
+person1,337,420,Sad,Walking,Down,Reading Book
+person1,334,420,Sad,Walking,Down,Reading Book
+person1,337,421,Sad,Walking,Down,Reading Book
+person1,334,424,Sad,Walking,Down,Reading Book
+person1,333,426,Sad,Walking,Down,Reading Book
+person1,336,428,Sad,Walking,Down,None
+person1,337,434,Sad,Walking,Down,None
+person1,344,437,Sad,Walking,Down,Reading Book
+person1,357,431,None,Walking,Down,Reading Book
+person1,371,421,Sad,Walking,Down,Reading Book
+person1,377,418,None,Walking,Down,Reading Book
+person1,377,419,None,Walking,Down,Reading Book
+person1,381,426,Sad,Walking,Down,None
+person1,377,441,None,Walking,Down,None
+person1,379,443,None,Walking,Down,None
+person1,379,445,None,Walking,Down,None
+person1,379,447,None,Walking,Down,None
+person1,374,446,None,Walking,Down,None
+person1,379,445,None,Walking,Down,None
+person1,379,445,None,Walking,Down,None
+person1,374,445,Happy,Walking,Down,None
+person1,376,445,None,Walking,Down,None
+person1,374,443,None,Walking,Down,None
+person1,381,443,Happy,Walking,Down,None
+person1,377,443,None,Walking,Down,None
+person1,376,443,None,Walking,Down,None
+person1,377,443,None,Walking,Down,None
+person1,381,443,None,Walking,Down,None
+person1,377,443,None,Walking,Down,None
+person1,377,443,None,Standing,Down,None
+person1,376,443,None,Standing,Down,None
+person1,379,443,None,Standing,Down,None
+person1,377,443,None,Standing,Down,None
+person1,374,443,None,Standing,Down,None
+person1,377,443,None,Standing,Down,None
+person1,376,443,None,Standing,Down,None
+person1,376,443,None,Standing,Down,None
+person1,379,443,None,Standing,Down,None
+person1,374,443,None,Standing,Down,None
+person1,370,443,None,Standing,Down,None
+person1,376,443,None,Standing,Down,None
+person1,374,443,None,Standing,Down,None
+person1,376,443,None,Standing,Down,None
+person1,376,443,None,Standing,Down,None
+person1,377,446,None,Standing,Down,None
+person1,371,451,None,Standing,Down,None
+person1,368,457,None,Standing,Down,None
+person1,367,466,None,Standing,Down,None
+person1,365,468,Happy,Standing,Down,None
+person1,350,467,Happy,Standing,Down,None
+person1,333,463,None,Standing,Down,None
+person1,328,458,Happy,Walking,Down,None
+person1,315,450,Happy,Walking,Down,None
+person1,303,445,Happy,Standing,Down,None
+person1,298,433,None,Standing,Down,None
+person1,297,421,Neutral,Walking,Down,None
+person1,303,408,None,Walking,Down,Reading Book
+person1,312,403,None,Walking,Down,Reading Book
+person1,329,404,None,Walking,Down,Reading Book
+person1,337,405,None,Walking,Down,None
+person1,340,404,None,Walking,Down,None
+person1,350,401,None,Walking,Down,None
+person1,371,393,None,Walking,Down,Reading Book
+person1,376,392,None,Walking,Down,Reading Book
+person1,392,392,None,Walking,Down,None
+person1,418,387,None,Walking,Down,Reading Book
+person1,447,384,None,Walking,Down,None
+person1,447,386,None,Walking,Down,None
+person1,454,386,None,Walking,Down,None
+person1,464,378,None,Walking,Down,None
+person1,462,370,None,Walking,Down,None
+person1,475,364,None,Walking,Down,None
+person1,462,358,None,Walking,Down,None
+person1,538,351,None,Walking,Down,Reading Book
+person1,561,350,None,Walking,Down,Reading Book
+person1,520,356,None,Walking,Down,None
+person1,531,356,None,Walking,Down,Reading Book
+person1,510,375,None,Walking,Down,None
+person1,504,391,None,Walking,Down,None
+person1,475,409,None,Walking,Down,None
+person1,467,418,None,Walking,Down,None
+person1,462,424,None,Walking,Down,None
+person1,454,425,None,Walking,Down,None
+person1,454,426,None,Walking,Down,None
+person1,447,423,None,Walking,Down,None
+person1,435,418,None,Walking,Down,None
+person1,429,415,None,Walking,Down,None
+person1,421,413,None,Walking,Down,None
+person1,394,413,None,Walking,Down,None
+person1,387,411,None,Walking,Down,None
+person1,382,402,None,Standing,Down,None
+person1,377,392,Happy,Standing,Down,None
+person1,368,383,Happy,Standing,Down,None
+person1,347,366,None,Standing,Down,None
+person1,345,364,None,Standing,Down,None
+person1,335,361,Happy,Standing,Down,None
+person1,322,366,None,Standing,Down,None
+person1,314,367,None,Walking,Down,None
+person1,312,366,None,Walking,Down,None
+person1,310,363,None,Walking,Down,None
+person1,318,358,None,Walking,Down,None
+person1,316,345,Neutral,Walking,Down,None
+person1,313,328,None,Walking,Down,None
+person1,315,325,Neutral,Walking,Down,None
+person1,337,322,Neutral,Walking,Down,Reading Book
+person1,342,323,Neutral,Sitting,Down,None
+person1,354,322,Neutral,Sitting,Down,None
+person1,358,328,Neutral,Sitting,Down,None
+person1,355,330,Neutral,Sitting,Down,None
+person1,367,332,Neutral,Sitting,Down,None
+person1,350,334,Neutral,Sitting,Down,None
+person1,354,335,Neutral,Sitting,Down,None
+person1,349,335,Neutral,Sitting,Down,None
+person1,336,335,None,Sitting,Down,None
+person1,324,338,Neutral,Sitting,Down,None
+person1,306,338,None,Sitting,Down,None
+person1,300,349,Happy,Standing,Down,None
+person1,301,356,Happy,Standing,Down,Reading Book
+person1,297,350,Neutral,Standing,Down,None
+person1,280,315,Neutral,Standing,Down,None
+person1,270,280,Neutral,Standing,Down,None
+person1,254,248,Neutral,Standing,Down,None
+person1,237,220,Neutral,Standing,Down,None
+person1,222,188,Neutral,Standing,Down,None
+person1,211,148,Neutral,Standing,Down,None
+person1,202,88,Neutral,Standing,Down,None
+person1,190,20,None,Walking,Down,Reading Book
+person1,191,20,None,Walking,Down,Reading Book
+person1,718,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,718,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,712,20,None,Walking,Down,Reading Book
+person1,725,20,None,Walking,Down,Reading Book
+person1,151,36,Neutral,Walking,Down,Reading Book
+person1,156,42,Neutral,Walking,Down,Reading Book
+person1,157,68,Neutral,Walking,Down,Reading Book
+person1,156,105,Neutral,Walking,Down,Reading Book
+person1,154,96,Neutral,Walking,Down,Reading Book
+person1,151,102,Neutral,Walking,Down,Reading Book
+person1,149,95,Neutral,Walking,Down,Reading Book
+person1,147,52,Neutral,Walking,Down,Reading Book
+person1,143,46,Neutral,Walking,Down,Reading Book
+person1,141,40,Neutral,Walking,Both Hands Up,Reading Book
+person1,144,94,None,Walking,Right Hand Up,Reading Book
+person1,140,65,Neutral,Walking,Both Hands Up,Reading Book
+person1,146,61,Neutral,Walking,Down,Reading Book
+person1,153,91,Neutral,Walking,Down,Reading Book
+person1,157,98,Neutral,Walking,Down,Reading Book
+person1,157,94,Neutral,Walking,Down,Reading Book
+person1,156,93,Neutral,Walking,Down,Reading Book
+person1,154,77,Neutral,Walking,Down,Reading Book
+person1,152,61,Neutral,Walking,Down,Reading Book
+person1,152,52,Neutral,Walking,Down,Reading Book
+person1,153,42,Sad,Walking,Down,Reading Book
+person1,153,40,Sad,Walking,Down,Reading Book
+person1,152,41,Sad,Walking,Down,Reading Book
+person1,152,42,Sad,Walking,Down,Reading Book
+person1,151,43,Sad,Walking,Down,Reading Book
+person1,150,57,Neutral,Walking,Both Hands Up,Reading Book
+person1,148,51,Neutral,Walking,Down,Reading Book
+person1,147,49,Neutral,Walking,Both Hands Up,Reading Book
+person1,149,55,Neutral,Walking,Down,Reading Book
+person1,151,105,Neutral,Walking,Down,Reading Book
+person1,151,190,None,Walking,Down,Reading Book
+person1,154,291,None,Walking,Down,Reading Book
+person1,157,337,Neutral,Sitting,Down,Reading Book
+person1,165,377,Neutral,Sitting,Down,Reading Book
+person1,171,346,Neutral,Walking,Down,Reading Book
+person1,176,339,Neutral,Walking,Down,Reading Book
+person1,185,338,Neutral,Walking,Down,Reading Book
+person1,196,331,Neutral,Walking,Down,Reading Book
+person1,204,335,Neutral,Walking,Down,Reading Book
+person1,210,361,Neutral,Walking,Down,Reading Book
+person1,215,388,Neutral,Walking,Down,Reading Book
+person1,216,421,Neutral,Sitting,Down,Reading Book
+person1,222,449,Neutral,Walking,Down,Reading Book
+person1,226,455,Neutral,Sitting,Down,Reading Book
+person1,231,438,Neutral,Sitting,Down,Reading Book
+person1,236,425,Neutral,Walking,Down,Reading Book
+person1,239,414,None,Walking,Down,Reading Book
+person1,239,405,None,Walking,Down,Reading Book
+person1,237,404,Neutral,Walking,Down,Reading Book
+person1,237,408,Neutral,Walking,Down,Reading Book
+person1,237,419,Neutral,Walking,Down,Reading Book
+person1,237,420,Neutral,Sitting,Down,Reading Book
+person1,237,424,Neutral,Sitting,Down,Reading Book
+person1,239,424,Neutral,Walking,Down,Reading Book
+person1,237,424,Neutral,Walking,Down,Reading Book
+person1,238,424,Neutral,Walking,Down,Reading Book
+person1,238,423,Neutral,Walking,Down,Reading Book
+person1,239,423,Neutral,Walking,Down,Reading Book
+person1,240,416,Neutral,Walking,Down,Reading Book
+person1,244,401,Sad,Walking,Down,Reading Book
+person1,256,401,Sad,Walking,Down,Reading Book
+person1,268,434,Sad,Walking,Down,Reading Book
+person1,279,452,Sad,Walking,Down,Reading Book
+person1,297,455,Sad,Walking,Down,Reading Book
+person1,315,449,Neutral,Walking,Down,Reading Book
+person1,325,441,Sad,Walking,Down,Reading Book
+person1,342,438,Neutral,Walking,Down,Reading Book
+person1,341,437,None,Walking,Down,Reading Book
+person1,357,439,None,Walking,Down,Reading Book
+person1,362,439,None,Walking,Down,Reading Book
+person1,387,439,None,Walking,Down,Reading Book
+person1,445,434,None,Walking,Down,Reading Book
+person1,418,415,None,Walking,Down,Reading Book
+person1,435,409,None,Walking,Down,Reading Book
+person1,435,403,None,Walking,Down,Reading Book
+person1,438,407,None,Walking,Down,Reading Book
+person1,416,417,None,Walking,Right Hand Up,Reading Book
+person1,394,434,None,Walking,Right Hand Up,Reading Book
+person1,377,448,None,Walking,Right Hand Up,Reading Book
+person1,354,458,None,Walking,Right Hand Up,Reading Book
+person1,347,456,None,Walking,Right Hand Up,Reading Book
+person1,330,452,None,Walking,Right Hand Up,Reading Book
+person1,315,452,None,Walking,Right Hand Up,Reading Book
+person1,304,456,None,Walking,Right Hand Up,Reading Book
+person1,292,456,Sad,Walking,Right Hand Up,Reading Book
+person1,266,463,Sad,Walking,Right Hand Up,Reading Book
+person1,251,460,Sad,Walking,Right Hand Up,Holding Book
+person1,235,456,Sad,Walking,Down,Holding Book
+person1,216,427,Sad,Walking,Down,Reading Book
+person1,202,411,Neutral,Walking,Down,Reading Book
+person1,190,392,Neutral,Walking,Down,None
+person1,173,369,Neutral,Walking,Down,None
+person1,163,351,Happy,Walking,Down,None
+person1,153,303,Happy,Walking,Down,None
+person1,145,240,Happy,Walking,Down,Reading Book
+person1,153,240,None,Walking,Down,Reading Book
+person1,712,240,None,Walking,Down,Reading Book
+person1,162,133,Sad,Walking,Down,Reading Book
+person1,166,123,Sad,Walking,Down,Reading Book
+person1,164,94,Neutral,Walking,Down,Reading Book
+person1,162,88,Neutral,Walking,Down,Reading Book
+person1,162,92,Neutral,Walking,Down,Reading Book
+person1,162,94,Neutral,Walking,Down,Reading Book
+person1,161,90,Neutral,Walking,Down,Reading Book
+person1,161,93,Neutral,Walking,Down,Reading Book
+person1,160,85,Neutral,Walking,Down,Reading Book
+person1,159,79,Sad,Walking,Down,Reading Book
+person1,172,77,Neutral,Sitting,Down,Reading Book
+person1,171,83,None,Walking,Down,Reading Book
+person1,171,82,Neutral,Walking,Left Hand Up,Reading Book
+person1,169,82,Neutral,Walking,Down,Reading Book
+person1,171,107,Sad,Walking,Down,Reading Book
+person1,171,106,None,Walking,Down,Reading Book
+person1,170,103,Sad,Walking,Down,Reading Book
+person1,171,106,Sad,Walking,Down,Reading Book
+person1,171,112,None,Walking,Down,Reading Book
+person1,171,110,Sad,Walking,Down,Reading Book
+person1,171,111,None,Walking,Down,Reading Book
+person1,171,109,Sad,Walking,Down,Reading Book
+person1,170,102,None,Walking,Down,Reading Book
+person1,170,103,None,Walking,Down,Reading Book
+person1,171,103,None,Walking,Down,Reading Book
+person1,170,99,None,Walking,Down,Reading Book
+person1,170,88,Sad,Walking,Down,Reading Book
+person1,170,94,None,Walking,Left Hand Up,Reading Book
+person1,170,94,None,Walking,Down,Reading Book
+person1,169,83,Sad,Walking,Down,Reading Book
+person1,169,82,Sad,Walking,Down,Reading Book
+person1,169,82,Sad,Walking,Down,Reading Book
+person1,169,81,Neutral,Walking,Down,Reading Book
+person1,169,80,Neutral,Walking,Down,Reading Book
+person1,168,79,Neutral,Walking,Down,Reading Book
+person1,169,68,Neutral,Walking,Down,Reading Book
+person1,167,57,Sad,Walking,Down,Reading Book
+person1,167,53,Sad,Walking,Down,Reading Book
+person1,167,53,Neutral,Walking,Down,Reading Book
+person1,166,56,Neutral,Walking,Down,Reading Book
+person1,169,53,Neutral,Walking,Down,Reading Book
+person1,169,47,Neutral,Walking,Down,Reading Book
+person1,173,43,Neutral,Walking,Down,Reading Book
+person1,178,44,Sad,Walking,Down,Reading Book
+person1,191,42,Sad,Walking,Down,Reading Book
+person1,195,43,Neutral,Walking,Down,Reading Book
+person1,202,42,Neutral,Walking,Down,Reading Book
+person1,204,42,Neutral,Walking,Down,Reading Book
+person1,202,42,Neutral,Walking,Down,Reading Book
+person1,201,43,Neutral,Walking,Down,Reading Book
+person1,197,37,Neutral,Walking,Left Hand Up,Reading Book
+person1,195,37,Neutral,Walking,Down,Reading Book
+person1,200,75,Sad,Walking,Down,Reading Book
+person1,204,140,Sad,Walking,Down,None
+person1,217,231,Neutral,Walking,Down,None
+person1,222,293,Neutral,Walking,Down,None
+person1,226,327,Sad,Walking,Down,Reading Book
+person1,227,349,None,Walking,Down,Reading Book
+person1,231,358,Sad,Walking,Down,Reading Book
+person1,230,367,Sad,Walking,Down,Reading Book
+person1,234,382,Sad,Walking,Down,Reading Book
+person1,231,386,Sad,Walking,Down,Reading Book
+person1,230,374,Sad,Sitting,Down,Reading Book
+person1,228,373,Sad,Sitting,Down,Reading Book
+person1,222,354,None,None,Down,Reading Book
+person1,216,349,None,Walking,Down,Reading Book
+person1,214,317,None,Walking,Down,Reading Book
+person1,216,294,None,Walking,Down,Reading Book
+person1,213,286,None,Walking,Down,Reading Book
+person1,216,282,None,Walking,Both Hands Up,Reading Book
+person1,217,289,None,Walking,Both Hands Up,Reading Book
+person1,215,291,None,Walking,Left Hand Up,Reading Book
+person1,207,325,None,Walking,Down,Reading Book
+person1,210,342,None,Walking,Down,Reading Book
+person1,212,347,None,Walking,Down,Reading Book
+person1,211,342,None,Walking,Down,Reading Book
+person1,211,337,None,Walking,Down,Reading Book
+person1,208,334,None,Sitting,Down,Reading Book
+person1,203,317,None,Walking,Down,Reading Book
+person1,199,293,None,Walking,Down,Reading Book
+person1,190,226,None,Walking,Down,None
+person1,181,175,Sad,Walking,Left Hand Up,None
+person1,174,170,Sad,Walking,Down,None
+person1,176,188,Sad,Walking,Down,None
+person1,168,157,Neutral,Walking,Down,None
+person1,160,89,Neutral,Walking,Down,None
+person1,157,67,Neutral,Walking,Down,None
+person1,154,82,Neutral,Walking,Down,Reading Book
+person1,153,95,Neutral,Walking,Down,Reading Book
+person1,152,80,Neutral,Walking,Down,Reading Book
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,147,108,None,Walking,Down,None
+person1,147,108,None,Walking,Down,None
+person1,143,45,Sad,Walking,Both Hands Up,None
+person1,143,53,Sad,Walking,Both Hands Up,None
+person1,144,45,Sad,Walking,Both Hands Up,None
+person1,143,46,Sad,Walking,Left Hand Up,None
+person1,147,41,Sad,Walking,Left Hand Up,None
+person1,154,40,Sad,Walking,Down,Reading Book
+person1,165,52,Sad,Walking,Down,Reading Book
+person1,178,86,Sad,Walking,Down,None
+person1,188,106,Sad,Walking,Down,None
+person1,195,127,Sad,Walking,Down,None
+person1,197,126,Sad,Walking,Down,None
+person1,196,126,Sad,Walking,Down,None
+person1,193,122,Sad,Walking,Down,None
+person1,189,114,Sad,Walking,Down,None
+person1,187,114,Sad,Walking,Down,None
+person1,184,112,Sad,Walking,Down,None
+person1,182,108,Sad,Walking,Down,None
+person1,181,103,Sad,Walking,Down,None
+person1,178,88,Sad,Walking,Down,None
+person1,175,46,None,Walking,Down,None
+person1,175,38,None,Walking,Down,Reading Book
+person1,177,34,None,Walking,Down,None
+person1,175,45,None,Walking,Right Hand Up,Reading Book
+person1,718,50,None,Walking,Down,Reading Book
+person1,595,65,None,Sitting,Down,Reading Book
+person1,365,175,None,Sitting,Down,Reading Book
+person1,224,178,None,Sitting,Down,Reading Book
+person1,227,179,None,Walking,Down,Reading Book
+person1,224,179,None,Walking,Down,Reading Book
+person1,226,179,None,Walking,Down,Reading Book
+person1,222,179,None,Walking,Down,Reading Book
+person1,227,179,None,Walking,Down,Reading Book
+person1,220,179,None,Walking,Down,Reading Book
+person1,225,179,None,Walking,Down,Reading Book
+person1,225,179,None,Walking,Down,Reading Book
+person1,241,67,None,Sitting,Down,Reading Book
+person1,245,92,None,Standing,Down,Reading Book
+person1,266,138,None,Sitting,Down,Reading Book
+person1,273,176,None,Sitting,Down,None
+person1,291,213,None,Sitting,Down,None
+person1,303,235,None,Standing,Down,None
+person1,307,248,None,Sitting,Down,None
+person1,306,248,None,Standing,Down,None
+person1,302,246,None,Sitting,Down,None
+person1,307,253,None,Standing,Down,None
+person1,307,272,None,Standing,Down,None
+person1,301,296,None,Standing,Down,None
+person1,292,319,None,Standing,Down,None
+person1,285,328,None,Sitting,Down,None
+person1,277,344,None,Sitting,Down,None
+person1,279,358,None,Sitting,Down,None
+person1,273,369,None,Sitting,Down,None
+person1,282,393,None,Sitting,Down,None
+person1,293,417,None,Sitting,Down,None
+person1,292,440,None,Sitting,Down,None
+person1,289,468,None,Sitting,Down,None
+person1,319,492,None,Walking,Down,None
+person1,330,519,None,Walking,Down,None
+person1,341,533,None,Walking,Both Hands Up,None
+person1,347,541,None,Walking,Both Hands Up,None
+person1,379,544,None,Walking,Both Hands Up,None
+person1,391,547,None,Walking,Both Hands Up,None
+person1,391,557,None,Walking,Left Hand Up,None
+person1,398,562,None,Walking,Left Hand Up,None
+person1,427,565,None,Walking,Left Hand Up,None
+person1,413,563,None,Walking,Down,None
+person1,459,561,None,Walking,Down,None
+person1,514,557,None,Walking,Down,None
+person1,486,557,None,Walking,Down,None
+person1,538,556,None,Walking,Down,None
+person1,531,558,None,Walking,Down,None
+person1,561,559,None,Walking,Down,None
+person1,553,558,None,Walking,Down,None
+person1,577,555,None,Walking,Down,None
+person1,590,548,None,Walking,Right Hand Up,None
+person1,629,548,None,Walking,Right Hand Up,None
+person1,599,548,None,Walking,Down,None
+person1,629,555,None,Walking,Right Hand Up,None
+person1,656,560,None,Walking,Down,None
+person1,685,560,None,Walking,Down,None
+person1,679,559,None,Walking,Down,None
+person1,679,558,None,Walking,Down,None
+person1,679,558,None,Walking,Down,None
+person1,679,556,None,Walking,Down,None
+person1,667,553,None,Walking,Down,None
+person1,673,547,None,Walking,Down,None
+person1,673,548,None,Walking,Down,Holding Phone
+person1,656,541,None,Walking,Down,None
+person1,639,538,None,Walking,Down,None
+person1,599,534,None,Walking,Down,None
+person1,573,523,None,Walking,Down,None
+person1,581,517,None,Walking,Down,None
+person1,549,514,None,Walking,Down,None
+person1,561,508,None,Walking,Down,None
+person1,549,502,None,Walking,Down,None
+person1,531,491,None,Walking,Down,None
+person1,538,471,None,Walking,Down,None
+person1,520,452,None,Walking,Down,None
+person1,486,439,None,Walking,Down,None
+person1,472,430,None,Walking,Down,None
+person1,462,417,None,Walking,Down,None
+person1,452,404,None,Walking,Down,None
+person1,442,386,None,Walking,Down,None
+person1,431,361,None,Walking,Down,None
+person1,429,334,None,Sitting,Down,None
+person1,407,308,None,Sitting,Down,None
+person1,394,294,None,Sitting,Down,None
+person1,394,287,None,Sitting,Down,None
+person1,389,283,None,Sitting,Down,None
+person1,392,283,None,Sitting,Down,None
+person1,392,283,None,Sitting,Down,None
+person1,392,285,None,Sitting,Down,None
+person1,389,288,Happy,Sitting,Down,None
+person1,387,291,Happy,Sitting,Down,None
+person1,391,289,Happy,Sitting,Down,None
+person1,389,291,None,Sitting,Down,None
+person1,391,295,None,Sitting,Down,None
+person1,394,298,None,Sitting,Down,None
+person1,396,319,Happy,Sitting,Down,None
+person1,399,350,Happy,Sitting,Down,None
+person1,413,384,None,Standing,Down,None
+person1,414,401,None,Walking,Down,None
+person1,411,408,None,Walking,Down,None
+person1,411,418,None,Walking,Down,None
+person1,411,424,None,Walking,Down,None
+person1,413,425,None,Walking,Down,None
+person1,423,425,None,Walking,Down,None
+person1,414,421,None,Walking,Down,None
+person1,416,418,None,Walking,Down,None
+person1,416,418,None,Walking,Down,None
+person1,416,414,None,Walking,Down,None
+person1,411,410,None,Standing,Down,None
+person1,423,391,None,Standing,Down,None
+person1,401,360,None,Standing,Down,None
+person1,403,330,None,Walking,Down,None
+person1,396,313,None,Walking,Down,None
+person1,396,303,None,Walking,Down,None
+person1,387,302,None,Walking,Down,None
+person1,399,301,None,Walking,Down,None
+person1,398,303,None,Walking,Down,None
+person1,394,303,None,Walking,Down,None
+person1,399,305,None,Standing,Down,None
+person1,392,306,None,Standing,Down,None
+person1,392,307,None,Standing,Down,None
+person1,423,308,None,Standing,Down,None
+person1,371,335,None,Standing,Down,None
+person1,362,350,None,Walking,Down,None
+person1,66,358,None,Walking,Down,None
+person1,66,360,None,Walking,Down,None
+person1,365,360,None,Walking,Down,None
+person1,351,352,None,Walking,Down,None
+person1,345,342,None,Walking,Down,None
+person1,332,339,None,Walking,Down,None
+person1,332,338,None,Walking,Down,None
+person1,66,338,None,Walking,Down,None
+person1,317,334,Happy,Walking,Down,None
+person1,332,313,None,Walking,Down,None
+person1,341,303,None,Walking,Down,None
+person1,354,303,None,Walking,Down,None
+person1,354,304,None,Walking,Down,None
+person1,355,303,None,Walking,Down,None
+person1,353,304,None,Walking,Down,None
+person1,351,305,None,Sitting,Down,None
+person1,347,304,None,Sitting,Down,None
+person1,357,305,None,Sitting,Down,None
+person1,349,305,None,Sitting,Down,None
+person1,354,306,None,Sitting,Down,None
+person1,350,306,None,Sitting,Down,None
+person1,350,306,None,Sitting,Down,None
+person1,361,307,None,Sitting,Down,None
+person1,362,307,None,Sitting,Down,None
+person1,358,308,None,Sitting,Down,None
+person1,368,309,None,Sitting,Down,None
+person1,364,308,None,Sitting,Down,None
+person1,358,308,None,Sitting,Down,None
+person1,362,308,Neutral,Sitting,Down,None
+person1,357,308,None,Sitting,Down,None
+person1,357,308,None,Sitting,Down,None
+person1,357,308,None,Sitting,Down,None
+person1,351,308,None,Sitting,Down,None
+person1,346,308,Neutral,Standing,Down,None
+person1,339,308,Neutral,Standing,Down,None
+person1,313,310,Happy,Standing,Down,None
+person1,299,337,Happy,Standing,Down,None
+person1,284,355,Happy,Standing,Down,None
+person1,280,358,Happy,Standing,Down,None
+person1,272,347,Happy,Standing,Down,None
+person1,254,339,Neutral,Standing,Down,None
+person1,237,337,Happy,Standing,Down,None
+person1,213,333,Neutral,Standing,Down,None
+person1,201,318,Neutral,Standing,Down,None
+person1,189,287,Happy,Standing,Down,None
+person1,175,233,Sad,Walking,Down,None
+person1,164,166,Sad,Walking,Down,None
+person1,156,102,Sad,Walking,Down,None
+person1,152,68,Sad,Walking,Down,None
+person1,150,48,Sad,Walking,Down,None
+person1,150,36,Neutral,Walking,Down,None
+person1,151,49,Neutral,Walking,Down,None
+person1,155,110,Neutral,Walking,Down,None
+person1,160,236,Sad,Walking,Down,None
+person1,166,355,Sad,Walking,Down,None
+person1,177,412,Neutral,Walking,Down,None
+person1,187,439,Neutral,Walking,Down,None
+person1,201,430,Neutral,Walking,Down,None
+person1,213,436,Neutral,Walking,Down,None
+person1,221,447,Neutral,Walking,Down,None
+person1,224,468,Neutral,Walking,Down,None
+person1,222,488,Neutral,Walking,Down,None
+person1,213,511,Neutral,Walking,Down,None
+person1,211,543,Sad,Walking,Down,None
+person1,205,569,Sad,Walking,Down,None
+person1,204,570,Sad,Walking,Down,None
+person1,203,578,Sad,Walking,Down,None
+person1,198,564,Sad,Walking,Down,None
+person1,198,560,None,Walking,Down,None
+person1,194,486,Sad,Walking,Down,None
+person1,192,430,Sad,Walking,Down,None
+person1,187,394,Sad,Walking,Down,None
+person1,180,365,Sad,Walking,Down,None
+person1,171,334,Sad,Walking,Down,None
+person1,162,299,Sad,Walking,Down,None
+person1,157,270,Sad,Walking,Down,None
+person1,153,245,Sad,Walking,Down,None
+person1,150,203,Sad,Walking,Down,None
+person1,148,132,Sad,Walking,Down,None
+person1,146,68,Sad,Walking,Down,None
+person1,146,33,None,Walking,Down,None
+person1,146,46,None,Walking,Down,None
+person1,144,34,Sad,Walking,Down,None
+person1,143,46,Sad,Walking,Down,None
+person1,143,51,Sad,Walking,Down,None
+person1,142,50,Sad,Walking,Down,None
+person1,142,52,Sad,Walking,Down,None
+person1,142,62,Sad,Walking,Down,None
+person1,141,66,Sad,Walking,Down,None
+person1,141,69,Sad,Walking,Down,None
+person1,141,70,Sad,Walking,Down,None
+person1,141,70,Sad,Walking,Down,None
+person1,141,71,Sad,Walking,Down,None
+person1,141,73,Sad,Walking,Down,None
+person1,141,73,Sad,Walking,Down,None
+person1,139,74,Neutral,Walking,Down,None
+person1,139,73,Sad,Walking,Down,None
+person1,145,107,Sad,Walking,Down,None
+person1,152,225,Sad,Walking,Down,None
+person1,159,312,Sad,Walking,Down,None
+person1,167,346,Neutral,Walking,Down,None
+person1,180,361,Neutral,Walking,Down,None
+person1,193,368,Neutral,Walking,Down,None
+person1,204,383,Neutral,Walking,Down,None
+person1,213,405,Neutral,Sitting,Down,None
+person1,217,436,Neutral,Sitting,Down,None
+person1,222,467,Neutral,Sitting,Down,None
+person1,222,485,Neutral,Sitting,Down,None
+person1,224,498,Neutral,Sitting,Down,None
+person1,226,498,Neutral,Sitting,Down,None
+person1,224,493,Neutral,Sitting,Down,None
+person1,226,467,Neutral,Sitting,Down,None
+person1,226,461,Neutral,Sitting,Down,None
+person1,227,456,Neutral,Sitting,Down,None
+person1,227,453,Sad,Sitting,Down,None
+person1,226,452,Sad,Sitting,Down,None
+person1,225,452,Sad,Sitting,Down,None
+person1,225,455,Sad,Sitting,Down,None
+person1,227,456,Sad,Walking,Down,None
+person1,228,457,Sad,Sitting,Down,None
+person1,227,459,Sad,Walking,Down,None
+person1,227,460,Sad,Sitting,Down,Calling on Phone
+person1,228,469,None,Walking,Down,Calling on Phone
+person1,228,468,None,Walking,Down,Calling on Phone
+person1,232,473,Neutral,Walking,Down,Calling on Phone
+person1,242,471,None,Sitting,Down,Calling on Phone
+person1,244,446,Sad,Sitting,Down,None
+person1,255,408,Sad,Sitting,Right Hand Up,None
+person1,258,382,Sad,Sitting,Down,None
+person1,260,377,Sad,Standing,Right Hand Up,None
+person1,260,392,Neutral,Sitting,Right Hand Up,None
+person1,266,404,None,Standing,Down,None
+person1,264,434,Sad,Sitting,Right Hand Up,None
+person1,265,457,Sad,Sitting,Right Hand Up,None
+person1,266,463,Neutral,Sitting,Down,None
+person1,264,466,None,Sitting,Right Hand Up,None
+person1,264,458,Sad,Sitting,Right Hand Up,None
+person1,267,438,Sad,Sitting,Right Hand Up,None
+person1,265,412,Happy,Sitting,Right Hand Up,None
+person1,273,382,Sad,Sitting,Right Hand Up,None
+person1,275,364,Sad,Sitting,Down,None
+person1,275,355,Sad,Sitting,Right Hand Up,None
+person1,275,362,None,Sitting,Right Hand Up,None
+person1,274,368,Sad,Sitting,Right Hand Up,None
+person1,274,373,None,Walking,Down,None
+person1,272,377,Sad,Sitting,Right Hand Up,None
+person1,272,377,None,Sitting,Right Hand Up,None
+person1,273,382,Sad,Sitting,Right Hand Up,None
+person1,271,387,Sad,Sitting,Down,None
+person1,270,389,None,Sitting,Down,None
+person1,270,391,None,Sitting,Right Hand Up,None
+person1,271,393,Sad,Sitting,Right Hand Up,None
+person1,270,396,Sad,Sitting,Right Hand Up,None
+person1,271,397,Sad,Sitting,Right Hand Up,None
+person1,273,398,Sad,Sitting,Right Hand Up,None
+person1,273,398,Sad,Sitting,Right Hand Up,None
+person1,272,385,Sad,Standing,Right Hand Up,None
+person1,268,368,Sad,Walking,Down,None
+person1,267,356,Sad,Walking,Down,None
+person1,265,352,Sad,Walking,Down,None
+person1,261,360,Sad,Sitting,Down,None
+person1,256,364,Sad,Walking,Down,None
+person1,252,383,Sad,Sitting,Right Hand Up,None
+person1,242,415,Sad,Sitting,Right Hand Up,None
+person1,237,432,Sad,Sitting,Right Hand Up,None
+person1,235,437,Sad,Sitting,Right Hand Up,None
+person1,237,439,Sad,Sitting,Right Hand Up,None
+person1,236,443,Sad,Sitting,Right Hand Up,None
+person1,233,448,Sad,Sitting,Down,None
+person1,231,450,Sad,Sitting,Down,None
+person1,236,451,Sad,Sitting,Down,None
+person1,235,452,Sad,Sitting,Down,None
+person1,240,453,Sad,Sitting,Down,None
+person1,249,438,None,Sitting,Down,None
+person1,257,409,Sad,Sitting,Down,None
+person1,268,388,None,Sitting,Down,None
+person1,280,390,Sad,Standing,Both Hands Up,None
+person1,284,398,Sad,Standing,Down,None
+person1,287,415,None,Sitting,Both Hands Up,None
+person1,290,434,Sad,Sitting,Both Hands Up,None
+person1,296,445,Sad,Standing,Both Hands Up,None
+person1,297,445,None,Sitting,Down,None
+person1,298,441,None,Sitting,Both Hands Up,None
+person1,297,439,None,Standing,Both Hands Up,None
+person1,298,438,Sad,Sitting,Both Hands Up,None
+person1,302,437,None,Sitting,Both Hands Up,None
+person1,299,434,None,Sitting,Down,None
+person1,299,430,Sad,Sitting,Both Hands Up,None
+person1,297,428,None,Sitting,Down,None
+person1,301,426,None,Sitting,Both Hands Up,None
+person1,300,425,None,Sitting,Both Hands Up,None
+person1,301,425,None,Sitting,Both Hands Up,None
+person1,301,424,None,Sitting,Down,None
+person1,302,424,None,Standing,Both Hands Up,None
+person1,298,423,Sad,Sitting,Both Hands Up,None
+person1,300,423,Sad,Standing,Both Hands Up,None
+person1,298,428,Sad,Standing,Down,None
+person1,285,433,Neutral,Walking,Down,None
+person1,280,434,Sad,Walking,Down,None
+person1,270,424,Sad,Walking,Down,None
+person1,254,402,Sad,Sitting,Down,None
+person1,242,376,Sad,Walking,Down,None
+person1,228,367,None,Walking,Down,None
+person1,213,360,Sad,Walking,Down,None
+person1,196,337,Sad,Walking,Down,None
+person1,185,303,Sad,Walking,Down,None
+person1,166,237,Sad,Walking,Down,None
+person1,150,144,None,Walking,Down,None
+person1,66,671,None,None,Down,None
+person1,172,81,Neutral,Walking,Down,None
+person1,185,118,Neutral,Walking,Down,None
+person1,186,130,Neutral,Walking,Down,None
+person1,179,136,Neutral,Walking,Down,None
+person1,168,180,Sad,Walking,Down,None
+person1,171,254,Sad,Walking,Down,None
+person1,181,303,Neutral,Walking,Down,None
+person1,193,344,Neutral,Walking,Down,None
+person1,207,384,Neutral,Sitting,Down,None
+person1,222,427,Sad,Walking,Down,None
+person1,230,448,Sad,Walking,Down,None
+person1,242,490,Sad,Sitting,Down,None
+person1,252,504,Sad,Sitting,Down,None
+person1,263,491,Sad,Sitting,Down,None
+person1,273,455,Sad,Walking,Down,None
+person1,284,436,Sad,Sitting,Down,None
+person1,284,413,Sad,Sitting,Down,None
+person1,286,405,Sad,Sitting,Down,None
+person1,286,408,Sad,Sitting,Down,None
+person1,286,420,Sad,Sitting,Down,None
+person1,285,445,Sad,Sitting,Down,None
+person1,285,460,None,Walking,Down,None
+person1,285,469,None,Walking,Down,None
+person1,287,464,None,Walking,Down,None
+person1,290,458,None,Walking,Down,None
+person1,296,448,None,Walking,Down,None
+person1,299,429,None,Standing,Down,None
+person1,301,414,None,Walking,Both Hands Up,None
+person1,301,405,None,Walking,Down,None
+person1,303,401,None,Walking,Down,None
+person1,302,398,None,Walking,Down,None
+person1,301,398,None,Walking,Down,Working on Computer
+person1,300,398,None,Walking,Down,None
+person1,297,396,None,Walking,Down,None
+person1,299,394,None,Walking,Down,Calling on Phone
+person1,298,392,None,Walking,Both Hands Up,Calling on Phone
+person1,297,394,None,Sitting,Down,None
+person1,297,394,None,Sitting,Down,None
+person1,297,394,None,Sitting,Both Hands Up,None
+person1,297,394,Sad,Sitting,Both Hands Up,None
+person1,298,393,Sad,Sitting,Both Hands Up,None
+person1,297,393,Sad,Sitting,Both Hands Up,None
+person1,299,392,Sad,Sitting,Both Hands Up,None
+person1,298,391,Sad,Sitting,Both Hands Up,None
+person1,298,390,None,Sitting,Both Hands Up,None
+person1,299,387,None,Sitting,Both Hands Up,None
+person1,299,387,None,Sitting,Both Hands Up,Working on Computer
+person1,296,386,None,Sitting,Down,None
+person1,298,386,None,Walking,Down,None
+person1,297,380,None,Walking,Down,None
+person1,296,375,None,Walking,Down,None
+person1,290,375,None,Walking,Down,None
+person1,286,375,Sad,Walking,Right Hand Up,None
+person1,279,381,Sad,Walking,Right Hand Up,None
+person1,272,390,Neutral,Sitting,Right Hand Up,None
+person1,261,395,Neutral,Sitting,Right Hand Up,None
+person1,257,394,Neutral,Sitting,Right Hand Up,None
+person1,260,393,Neutral,Sitting,Down,None
+person1,258,376,Neutral,Walking,Down,None
+person1,258,365,Neutral,Sitting,Down,None
+person1,258,356,Neutral,Walking,Down,None
+person1,258,351,Neutral,Walking,Down,None
+person1,258,346,Neutral,Walking,Down,None
+person1,256,352,Neutral,Walking,Down,None
+person1,257,354,Neutral,Walking,Down,None
+person1,257,354,None,Walking,Down,None
+person1,259,362,Neutral,Walking,Down,None
+person1,259,367,Neutral,Walking,Down,None
+person1,258,368,Neutral,Sitting,Down,None
+person1,258,371,Neutral,Walking,Down,None
+person1,258,371,Neutral,Sitting,Down,None
+person1,259,377,Sad,Walking,Down,None
+person1,256,381,Sad,Walking,Down,None
+person1,257,383,Sad,Sitting,Down,None
+person1,255,381,Sad,Sitting,Down,None
+person1,258,381,Sad,Sitting,Down,None
+person1,258,381,Neutral,Walking,Down,None
+person1,255,382,Sad,Walking,Down,None
+person1,258,384,Sad,Walking,Down,None
+person1,259,386,Sad,Sitting,Down,None
+person1,257,388,Sad,Sitting,Down,None
+person1,258,390,Sad,Sitting,Down,None
+person1,255,393,Sad,Sitting,Down,None
+person1,250,396,Sad,Sitting,Down,None
+person1,241,395,Sad,Sitting,Down,None
+person1,228,395,None,Sitting,Down,None
+person1,216,361,Sad,Walking,Down,None
+person1,204,343,Sad,Walking,Down,None
+person1,187,287,Sad,Walking,Down,None
+person1,180,199,None,Walking,Down,None
+person1,174,163,None,Walking,Down,None
+person1,168,144,None,Walking,Down,None
+person1,160,125,None,Walking,Down,None
+person1,160,122,Neutral,Walking,Down,None
+person1,160,123,Neutral,Walking,Down,None
+person1,160,123,Neutral,Walking,Down,None
+person1,161,123,Neutral,Walking,Down,None
+person1,161,122,Neutral,Walking,Down,None
+person1,161,122,Neutral,Walking,Down,None
+person1,161,125,Neutral,Walking,Down,None
+person1,160,167,Happy,Walking,Down,None
+person1,164,214,Neutral,Sitting,Down,None
+person1,167,189,Neutral,Walking,Down,None
+person1,173,161,Neutral,Sitting,Down,None
+person1,171,102,Neutral,Walking,Down,None
+person1,170,82,Neutral,Walking,Down,None
+person1,168,78,Neutral,Walking,Down,None
+person1,166,84,Neutral,Walking,Down,None
+person1,163,86,Neutral,Walking,Down,None
+person1,161,85,Neutral,Walking,Down,None
+person1,159,79,Neutral,Walking,Down,None
+person1,157,70,Neutral,Walking,Down,None
+person1,158,67,Neutral,Walking,Down,None
+person1,158,72,Neutral,Walking,Down,None
+person1,158,71,Neutral,Walking,Down,None
+person1,158,73,Neutral,Walking,Down,None
+person1,157,81,Neutral,Walking,Down,None
+person1,160,96,Neutral,Walking,Down,None
+person1,164,133,Neutral,Walking,Down,None
+person1,171,158,Neutral,Walking,Down,None
+person1,176,192,Neutral,Walking,Down,None
+person1,180,209,Neutral,Walking,Down,None
+person1,183,222,Neutral,Walking,Down,None
+person1,180,217,Neutral,Walking,Down,None
+person1,169,201,Neutral,Walking,Down,None
+person1,150,134,Sad,Walking,Down,None
+person1,143,108,Sad,Walking,Down,None
+person1,149,124,Sad,Walking,Down,None
+person1,156,159,Neutral,None,Down,None
+person1,163,176,Neutral,None,Down,None
+person1,166,181,Neutral,None,Down,None
+person1,166,179,Neutral,None,Down,None
+person1,166,178,Neutral,None,Down,None
+person1,165,177,Neutral,Sitting,Down,None
+person1,164,176,Neutral,Sitting,Down,None
+person1,161,176,Neutral,Sitting,Down,None
+person1,154,191,Neutral,Sitting,Down,None
+person1,146,231,Neutral,Walking,Down,None
+person1,146,304,Neutral,Sitting,Down,None
+person1,151,351,Neutral,Walking,Down,None
+person1,154,386,Neutral,Sitting,Down,None
+person1,153,397,Neutral,Sitting,Down,None
+person1,149,410,Neutral,Sitting,Down,None
+person1,143,426,Neutral,Sitting,Down,None
+person1,140,443,Sad,Sitting,Down,None
+person1,142,507,Sad,Sitting,Down,None
+person1,146,568,Sad,Sitting,Down,None
+person1,149,609,Sad,Sitting,Down,None
+person1,151,628,Sad,Sitting,Down,None
+person1,154,613,Sad,Sitting,Down,None
+person1,161,571,Sad,Walking,Left Hand Up,None
+person1,172,502,Sad,Walking,Down,None
+person1,180,435,Neutral,Walking,Down,None
+person1,187,409,Neutral,Walking,Down,None
+person1,191,405,Neutral,Walking,Down,None
+person1,193,426,Neutral,Walking,Down,None
+person1,195,439,Neutral,Walking,Down,None
+person1,194,460,Neutral,Walking,Down,None
+person1,194,476,Neutral,Walking,Down,None
+person1,196,484,Neutral,Walking,Down,None
+person1,201,483,Neutral,Walking,Down,None
+person1,204,446,Neutral,Sitting,Down,None
+person1,211,402,Neutral,Sitting,Down,None
+person1,212,395,Neutral,Walking,Down,None
+person1,211,408,Neutral,Sitting,Down,None
+person1,212,413,Neutral,Sitting,Down,None
+person1,210,417,Neutral,Sitting,Down,None
+person1,210,418,Neutral,Sitting,Down,None
+person1,208,420,Neutral,Sitting,Down,None
+person1,208,421,Neutral,Sitting,Down,None
+person1,205,419,Neutral,Walking,Down,None
+person1,206,416,Neutral,Sitting,Down,None
+person1,206,409,Neutral,Sitting,Down,None
+person1,204,387,Neutral,Sitting,Down,None
+person1,205,375,Neutral,Sitting,Down,None
+person1,205,363,Neutral,Sitting,Down,None
+person1,205,361,Neutral,Sitting,Down,None
+person1,206,358,Neutral,Walking,Down,None
+person1,205,354,Neutral,Walking,Down,None
+person1,206,349,Neutral,Walking,Down,None
+person1,207,350,Neutral,Walking,Down,None
+person1,206,348,Neutral,Walking,Down,None
+person1,206,348,Neutral,Walking,Down,None
+person1,205,345,Neutral,Walking,Down,None
+person1,205,339,Neutral,Walking,Down,None
+person1,201,341,Neutral,Walking,Down,None
+person1,192,342,Neutral,Walking,Down,None
+person1,179,343,Sad,Walking,Down,None
+person1,172,342,Sad,Walking,Down,None
+person1,168,341,Sad,Walking,Down,None
+person1,162,324,Sad,Walking,Down,None
+person1,153,276,Sad,Walking,Down,None
+person1,143,134,None,Walking,Down,None
+person1,590,134,None,Walking,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,151,89,None,Walking,Down,None
+person1,151,49,Sad,Sitting,Down,None
+person1,162,75,Sad,Sitting,Down,None
+person1,169,124,Neutral,Sitting,Down,None
+person1,173,173,Sad,Sitting,Down,None
+person1,174,181,Neutral,Sitting,Down,None
+person1,173,180,Sad,Sitting,Down,None
+person1,172,178,Sad,Sitting,Down,None
+person1,173,176,Neutral,Sitting,Down,None
+person1,173,174,Neutral,Sitting,Down,None
+person1,174,172,Neutral,Sitting,Down,None
+person1,175,170,Neutral,Sitting,Down,None
+person1,177,167,Neutral,Sitting,Down,None
+person1,177,166,Neutral,Sitting,Down,None
+person1,177,165,Neutral,Sitting,Down,None
+person1,177,164,Neutral,Sitting,Down,None
+person1,176,166,Happy,Sitting,Down,None
+person1,175,168,Happy,Sitting,Down,None
+person1,175,172,Happy,Sitting,Down,None
+person1,175,174,Happy,Sitting,Down,None
+person1,175,174,Happy,Sitting,Down,None
+person1,174,173,Neutral,Sitting,Down,None
+person1,175,172,Neutral,Sitting,Down,None
+person1,175,170,Neutral,Sitting,Down,None
+person1,174,170,Neutral,Sitting,Down,None
+person1,175,169,Neutral,Sitting,Down,None
+person1,175,168,Sad,Sitting,Down,None
+person1,175,163,None,Sitting,Down,None
+person1,174,160,None,Sitting,Down,None
+person1,173,155,None,Sitting,Down,None
+person1,173,150,None,Sitting,Down,None
+person1,172,140,None,Sitting,Down,None
+person1,172,135,None,Sitting,Down,None
+person1,172,133,None,Sitting,Down,None
+person1,172,136,Sad,Sitting,Down,None
+person1,173,137,Sad,Sitting,Down,None
+person1,171,138,Sad,Sitting,Down,None
+person1,173,140,Sad,Sitting,Down,None
+person1,172,140,Sad,Sitting,Down,None
+person1,172,142,Sad,Sitting,Down,None
+person1,171,143,Sad,Sitting,Down,None
+person1,172,147,Happy,Sitting,Down,None
+person1,172,153,Happy,Sitting,Down,None
+person1,172,156,Happy,Sitting,Down,None
+person1,172,157,Happy,Sitting,Down,None
+person1,172,156,Neutral,Sitting,Down,None
+person1,172,156,Neutral,Sitting,Down,None
+person1,172,156,Neutral,Sitting,Down,None
+person1,172,156,Neutral,Sitting,Down,None
+person1,172,156,Neutral,Sitting,Down,None
+person1,172,156,Neutral,Sitting,Down,None
+person1,172,158,Neutral,Sitting,Down,None
+person1,174,161,Neutral,Sitting,Down,None
+person1,175,164,Neutral,Sitting,Down,None
+person1,175,165,Neutral,Sitting,Down,None
+person1,175,165,Neutral,Sitting,Down,None
+person1,177,185,Neutral,Sitting,Right Hand Up,None
+person1,181,182,Neutral,Sitting,Right Hand Up,None
+person1,184,158,Neutral,Sitting,Down,None
+person1,183,95,Neutral,Sitting,Down,None
+person1,181,59,Neutral,Sitting,Down,None
+person1,182,55,Neutral,Sitting,Down,None
+person1,184,49,Neutral,Sitting,Down,None
+person1,187,47,Neutral,Sitting,Down,None
+person1,184,46,Neutral,Sitting,Down,None
+person1,184,60,Neutral,Sitting,Down,None
+person1,187,83,Neutral,Sitting,Down,None
+person1,191,166,None,Sitting,Down,None
+person1,194,217,Neutral,Sitting,Right Hand Up,None
+person1,197,240,Neutral,Sitting,Right Hand Up,None
+person1,201,253,Neutral,Sitting,Right Hand Up,None
+person1,202,266,Neutral,Sitting,Right Hand Up,None
+person1,202,278,Neutral,Sitting,Right Hand Up,None
+person1,202,283,Neutral,Sitting,Right Hand Up,None
+person1,198,287,Neutral,Sitting,Down,None
+person1,186,288,Neutral,Sitting,Down,None
+person1,177,316,Neutral,Sitting,Down,None
+person1,174,346,Neutral,Sitting,Down,None
+person1,178,392,Neutral,Sitting,Down,None
+person1,179,407,Neutral,Sitting,Down,Reading Book
+person1,179,405,Neutral,Sitting,Down,None
+person1,178,395,Neutral,Sitting,Down,None
+person1,178,384,Neutral,Sitting,Down,None
+person1,177,376,Neutral,Sitting,Down,None
+person1,176,370,Neutral,Sitting,Down,None
+person1,177,380,Neutral,Sitting,Down,None
+person1,177,390,Neutral,Sitting,Down,None
+person1,177,408,Neutral,Sitting,Down,None
+person1,178,420,Neutral,Sitting,Down,None
+person1,177,427,Neutral,Sitting,Down,Reading Book
+person1,175,437,Neutral,Sitting,Down,Reading Book
+person1,172,425,Neutral,Sitting,Down,None
+person1,169,418,Neutral,Sitting,Down,Reading Book
+person1,166,415,Neutral,Sitting,Down,None
+person1,164,426,Sad,Sitting,Down,None
+person1,163,463,Sad,Sitting,Down,None
+person1,163,531,Neutral,Sitting,Down,None
+person1,165,565,Sad,Sitting,Down,None
+person1,170,576,Sad,Sitting,Down,Reading Book
+person1,178,561,Sad,Sitting,Down,None
+person1,193,542,Sad,Sitting,Down,None
+person1,201,510,Sad,Sitting,Down,None
+person1,205,503,Sad,Sitting,Down,None
+person1,208,522,Sad,Sitting,Down,None
+person1,208,551,Sad,Sitting,Down,None
+person1,211,561,Sad,Sitting,Down,None
+person1,212,558,Neutral,Sitting,Down,None
+person1,217,555,Sad,Sitting,Down,None
+person1,225,501,Sad,Sitting,Down,None
+person1,223,443,Sad,Sitting,Down,None
+person1,226,424,Neutral,Sitting,Down,None
+person1,228,409,Sad,Standing,Down,None
+person1,229,403,Neutral,Standing,Down,None
+person1,227,407,Neutral,Standing,Down,None
+person1,223,385,Neutral,Standing,Down,None
+person1,222,387,Neutral,Standing,Down,None
+person1,215,390,Neutral,Standing,Down,None
+person1,210,391,Neutral,Standing,Down,None
+person1,204,388,Neutral,Standing,Down,None
+person1,204,386,Neutral,Standing,Down,None
+person1,202,359,Neutral,Standing,Down,None
+person1,202,313,Neutral,Standing,Down,None
+person1,205,233,Neutral,Standing,Down,None
+person1,209,155,Neutral,Standing,Down,None
+person1,211,122,Neutral,Standing,Down,None
+person1,211,107,Neutral,Standing,Down,None
+person1,212,122,Neutral,Standing,Down,None
+person1,213,137,Neutral,Standing,Down,None
+person1,213,173,Neutral,Standing,Down,None
+person1,215,230,Neutral,Standing,Down,None
+person1,216,310,Neutral,Standing,Down,None
+person1,219,352,Neutral,Standing,Down,None
+person1,224,380,Neutral,Standing,Down,None
+person1,228,389,Neutral,Standing,Down,None
+person1,234,398,Neutral,Standing,Down,None
+person1,238,412,Neutral,Standing,Down,None
+person1,238,437,Neutral,Standing,Down,None
+person1,233,470,Neutral,Standing,Down,None
+person1,232,484,Neutral,Standing,Down,None
+person1,232,488,Sad,Walking,Down,None
+person1,235,458,None,Walking,Down,None
+person1,233,450,None,Walking,Down,None
+person1,236,398,None,Walking,Down,None
+person1,234,368,None,Walking,Down,None
+person1,235,329,Neutral,Standing,Down,None
+person1,233,261,Neutral,Walking,Down,None
+person1,231,208,None,Walking,Down,None
+person1,235,167,Neutral,Standing,Down,None
+person1,236,128,Neutral,Standing,Down,None
+person1,234,125,Neutral,Standing,Down,None
+person1,235,156,Neutral,Standing,Down,None
+person1,236,191,Neutral,Standing,Down,None
+person1,235,236,Neutral,Standing,Down,None
+person1,230,276,Neutral,Standing,Down,None
+person1,228,328,Neutral,Standing,Down,None
+person1,224,383,None,Standing,Down,None
+person1,66,428,None,Standing,Down,None
+person1,221,462,None,Standing,Down,None
+person1,223,500,Sad,Standing,Down,None
+person1,221,548,Neutral,Standing,Down,None
+person1,222,551,Neutral,Standing,Down,None
+person1,227,534,Neutral,Standing,Down,None
+person1,236,496,Neutral,Standing,Down,None
+person1,240,477,Neutral,Standing,Down,None
+person1,247,453,Neutral,Standing,Down,None
+person1,246,434,Neutral,Standing,Down,None
+person1,242,426,Neutral,Standing,Down,None
+person1,228,412,Neutral,Standing,Down,None
+person1,209,397,Neutral,Standing,Down,None
+person1,196,365,Sad,Standing,Down,None
+person1,185,321,Sad,Standing,Down,None
+person1,171,240,None,Standing,Down,None
+person1,154,174,Sad,Standing,Down,None
+person1,142,58,None,Standing,Down,None
+person1,200,354,Neutral,Standing,Down,None
+person1,187,322,Neutral,Standing,Down,None
+person1,186,324,Neutral,Standing,Down,None
+person1,186,328,Neutral,Standing,Down,None
+person1,187,345,Neutral,Standing,Down,None
+person1,186,383,Neutral,Standing,Down,None
+person1,184,421,Neutral,Standing,Down,None
+person1,188,427,Neutral,Standing,Down,None
+person1,207,436,Neutral,Standing,Down,None
+person1,230,451,Neutral,Standing,Down,None
+person1,247,463,None,Walking,Down,None
+person1,259,460,None,Walking,Down,None
+person1,275,457,None,Walking,Down,None
+person1,284,452,None,Walking,Down,None
+person1,303,451,None,Walking,Down,None
+person1,314,451,None,Walking,Down,None
+person1,336,451,None,Walking,Down,None
+person1,342,452,None,Walking,Down,None
+person1,350,452,None,Walking,Down,None
+person1,370,433,None,Walking,Down,None
+person1,379,428,None,Walking,Down,None
+person1,394,417,None,Walking,Down,None
+person1,414,410,None,Walking,Down,None
+person1,435,405,None,Walking,Down,None
+person1,442,404,None,Walking,Down,None
+person1,457,395,None,Walking,Down,None
+person1,472,383,None,Walking,Down,None
+person1,472,372,None,Walking,Down,None
+person1,486,367,None,Walking,Down,None
+person1,486,371,None,Walking,Down,None
+person1,504,366,None,Walking,Down,None
+person1,498,371,None,Walking,Down,None
+person1,517,373,None,Walking,Down,None
+person1,483,395,None,Walking,Down,None
+person1,478,416,None,Walking,Down,None
+person1,462,427,None,Walking,Down,None
+person1,459,428,None,Walking,Down,None
+person1,452,428,None,Walking,Down,None
+person1,433,433,None,Walking,Down,None
+person1,429,439,None,Walking,Down,None
+person1,407,445,None,Walking,Down,None
+person1,394,461,None,Walking,Down,None
+person1,387,471,None,Walking,Down,None
+person1,381,475,None,Walking,Down,None
+person1,365,480,Happy,Walking,Down,None
+person1,342,481,None,Walking,Down,None
+person1,334,483,Happy,Walking,Down,None
+person1,322,485,Happy,Walking,Down,None
+person1,303,492,Happy,Walking,Down,None
+person1,286,494,Happy,Walking,Down,None
+person1,277,488,Sad,Walking,Down,None
+person1,270,481,Happy,Standing,Down,None
+person1,256,468,Happy,Standing,Down,None
+person1,250,451,Happy,Standing,Down,None
+person1,243,446,Happy,Standing,Down,None
+person1,241,449,Happy,Standing,Down,None
+person1,243,449,Sad,Standing,Down,None
+person1,241,462,Sad,Standing,Down,None
+person1,237,471,None,Standing,Down,None
+person1,238,475,None,Standing,Down,None
+person1,239,476,None,Standing,Down,None
+person1,237,476,None,Standing,Down,None
+person1,239,475,None,Standing,Down,None
+person1,239,475,None,Standing,Down,None
+person1,238,475,None,Standing,Down,None
+person1,238,475,Sad,Standing,Down,None
+person1,237,475,Sad,Standing,Down,None
+person1,237,475,Neutral,Standing,Down,None
+person1,238,476,Sad,Standing,Down,None
+person1,238,477,Sad,Standing,Down,None
+person1,239,478,Sad,Standing,Down,None
+person1,239,478,Neutral,Standing,Down,None
+person1,238,479,Neutral,Standing,Down,None
+person1,238,481,Sad,Standing,Down,None
+person1,239,482,Neutral,Standing,Down,None
+person1,238,483,Neutral,Standing,Down,None
+person1,237,485,Neutral,Standing,Down,None
+person1,237,486,Neutral,Standing,Down,None
+person1,236,488,Neutral,Standing,Down,None
+person1,237,488,Neutral,Standing,Down,None
+person1,236,488,Neutral,Standing,Down,None
+person1,235,489,Neutral,Standing,Down,None
+person1,233,494,Sad,Standing,Down,None
+person1,226,493,Neutral,Standing,Down,None
+person1,222,456,Neutral,Standing,Down,None
+person1,212,407,Neutral,Standing,Down,None
+person1,211,380,Neutral,Standing,Down,None
+person1,204,360,None,Standing,Down,None
+person1,198,351,Neutral,Standing,Down,None
+person1,187,349,Neutral,Standing,Down,None
+person1,174,337,Sad,Standing,Down,None
+person1,163,311,Sad,Standing,Down,None
+person1,66,671,None,None,Down,None
+person1,133,66,None,Walking,Both Hands Up,None
+person1,134,66,None,Walking,Down,None
+person1,134,66,None,Walking,Down,None
+person1,139,132,None,Sitting,Both Hands Up,None
+person1,138,111,None,Walking,Both Hands Up,None
+person1,144,124,None,Walking,Down,None
+person1,153,197,Sad,Walking,Down,None
+person1,155,313,None,Walking,Down,None
+person1,164,328,Sad,Walking,Down,None
+person1,175,362,Sad,Standing,Down,None
+person1,198,390,Sad,Walking,Down,None
+person1,215,413,Sad,Walking,Down,None
+person1,221,427,None,Walking,Down,None
+person1,229,415,None,Walking,Down,None
+person1,240,397,None,Walking,Down,None
+person1,249,392,None,Walking,Down,None
+person1,258,376,None,Walking,Down,None
+person1,264,369,None,Walking,Down,None
+person1,267,349,None,Walking,Down,None
+person1,255,311,None,Walking,Down,None
+person1,249,272,None,Walking,Down,None
+person1,242,235,None,Walking,Down,None
+person1,242,190,None,Walking,Down,None
+person1,232,131,None,Walking,Down,None
+person1,229,60,None,Walking,Down,None
+person1,225,5,None,Walking,Down,None
+person1,238,5,None,Walking,Down,None
+person1,725,5,None,Walking,Down,None
+person1,771,5,None,Walking,Down,None
+person1,725,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,763,5,None,Walking,Down,None
+person1,740,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,755,5,None,Walking,Down,None
+person1,733,5,None,Walking,Down,None
+person1,733,5,None,Walking,Down,None
+person1,755,5,None,Walking,Down,None
+person1,740,5,None,Walking,Down,None
+person1,718,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,763,5,None,Walking,Down,None
+person1,740,5,None,Walking,Down,None
+person1,740,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,740,5,None,Walking,Down,None
+person1,733,5,None,Walking,Down,None
+person1,733,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,763,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,718,5,None,Walking,Down,None
+person1,733,5,None,Walking,Down,None
+person1,747,5,None,Walking,Down,None
+person1,238,5,None,Walking,Down,None
+person1,263,129,None,Walking,Down,None
+person1,258,183,None,Walking,Down,None
+person1,266,221,None,Walking,Down,None
+person1,280,242,None,Walking,Down,None
+person1,294,261,None,Walking,Down,None
+person1,321,266,None,Walking,Down,None
+person1,297,263,None,Walking,Left Hand Up,None
+person1,307,244,None,Walking,Down,None
+person1,309,240,None,Walking,Down,None
+person1,312,239,None,Sitting,Both Hands Up,None
+person1,312,251,None,Sitting,Left Hand Up,None
+person1,319,270,None,Sitting,Left Hand Up,None
+person1,344,289,None,Sitting,Down,None
+person1,347,308,Sad,Sitting,Down,None
+person1,357,324,None,Sitting,Down,None
+person1,370,329,None,Sitting,Down,None
+person1,365,334,Neutral,Sitting,Down,None
+person1,361,340,Neutral,Sitting,Down,Working on Computer
+person1,379,343,None,Sitting,Down,Working on Computer
+person1,373,346,None,Sitting,Down,Working on Computer
+person1,387,348,None,Sitting,Down,Working on Computer
+person1,379,351,Neutral,Sitting,Down,Working on Computer
+person1,382,351,Neutral,Sitting,Down,Working on Computer
+person1,382,350,Neutral,Sitting,Down,Working on Computer
+person1,379,350,None,Walking,Down,Working on Computer
+person1,381,349,None,Walking,Down,Working on Computer
+person1,384,349,None,Sitting,Down,Working on Computer
+person1,376,350,Neutral,Sitting,Down,Working on Computer
+person1,381,351,Neutral,Sitting,Down,Working on Computer
+person1,376,352,None,Sitting,Down,Working on Computer
+person1,376,351,None,Sitting,Down,Working on Computer
+person1,381,351,None,Sitting,Down,Working on Computer
+person1,379,351,Neutral,Sitting,Down,Working on Computer
+person1,374,351,Happy,Sitting,Down,Working on Computer
+person1,374,350,None,Sitting,Down,Working on Computer
+person1,379,349,None,Sitting,Down,None
+person1,389,346,None,Sitting,Down,None
+person1,381,346,None,Sitting,Down,Working on Computer
+person1,389,346,Neutral,Sitting,Down,None
+person1,398,345,None,Sitting,Down,None
+person1,389,344,Neutral,Walking,Down,Working on Computer
+person1,398,343,None,Walking,Down,None
+person1,398,343,None,Walking,Down,None
+person1,396,342,None,Walking,Down,None
+person1,399,342,None,Walking,Down,None
+person1,401,342,None,Walking,Down,None
+person1,396,342,None,Walking,Down,None
+person1,399,342,None,Walking,Down,None
+person1,391,342,None,Walking,Down,None
+person1,384,342,None,Walking,Down,None
+person1,358,340,None,Walking,Down,None
+person1,359,332,None,Sitting,Down,None
+person1,353,323,None,Sitting,Down,None
+person1,358,315,None,Sitting,Down,None
+person1,358,313,None,Sitting,Down,None
+person1,355,316,Neutral,Sitting,Down,None
+person1,66,318,None,Sitting,Down,None
+person1,66,337,None,Walking,Down,Working on Computer
+person1,367,351,None,Walking,Down,Working on Computer
+person1,368,359,None,Walking,Down,Working on Computer
+person1,379,356,None,Walking,Down,None
+person1,376,356,None,Walking,Down,Working on Computer
+person1,368,355,None,Standing,Down,Working on Computer
+person1,377,354,None,Walking,Down,Working on Computer
+person1,373,354,None,Walking,Down,Working on Computer
+person1,374,354,None,Walking,Down,Working on Computer
+person1,379,354,None,Walking,Down,Working on Computer
+person1,384,353,None,Walking,Down,Working on Computer
+person1,376,353,None,Walking,Down,Working on Computer
+person1,373,353,Neutral,Walking,Down,Working on Computer
+person1,365,353,None,Walking,Down,Working on Computer
+person1,362,353,None,Walking,Down,Working on Computer
+person1,373,352,None,Walking,Down,Working on Computer
+person1,359,352,None,Walking,Down,Working on Computer
+person1,355,352,None,Walking,Down,Working on Computer
+person1,371,348,None,Walking,Down,None
+person1,368,342,None,Sitting,Down,Working on Computer
+person1,355,333,None,Sitting,Down,Working on Computer
+person1,354,324,None,Sitting,Down,None
+person1,354,317,None,Sitting,Down,Working on Computer
+person1,349,306,None,Sitting,Down,None
+person1,349,307,None,Sitting,Down,None
+person1,354,316,None,Sitting,Down,Working on Computer
+person1,66,332,None,Sitting,Down,Working on Computer
+person1,391,345,None,Sitting,Down,Working on Computer
+person1,361,351,None,Walking,Down,Working on Computer
+person1,362,354,None,Walking,Down,Working on Computer
+person1,357,355,None,Walking,Down,Working on Computer
+person1,357,354,None,Walking,Down,Working on Computer
+person1,354,352,None,Walking,Down,Working on Computer
+person1,357,351,None,Walking,Down,Working on Computer
+person1,364,350,None,Walking,Down,Working on Computer
+person1,362,349,None,Walking,Down,Working on Computer
+person1,362,349,None,Walking,Down,Working on Computer
+person1,361,349,None,Walking,Down,Working on Computer
+person1,371,348,None,Walking,Down,Working on Computer
+person1,364,349,None,Walking,Down,Working on Computer
+person1,361,349,None,Walking,Down,Working on Computer
+person1,358,349,None,Walking,Down,Working on Computer
+person1,371,349,None,Walking,Down,Working on Computer
+person1,355,349,None,Walking,Down,Working on Computer
+person1,359,350,None,Walking,Down,Working on Computer
+person1,361,350,None,Walking,Down,Working on Computer
+person1,355,349,None,Walking,Down,None
+person1,362,349,None,Walking,Down,None
+person1,358,349,None,Sitting,Down,None
+person1,361,348,None,Sitting,Down,None
+person1,353,343,None,Sitting,Down,None
+person1,351,332,None,Standing,Down,None
+person1,336,323,None,Standing,Down,None
+person1,322,312,None,Standing,Down,None
+person1,307,322,None,Standing,Down,None
+person1,298,343,Happy,Standing,Down,None
+person1,292,346,Happy,Standing,Down,None
+person1,283,345,Happy,Standing,Down,None
+person1,272,345,None,Standing,Down,None
+person1,254,298,Neutral,Standing,Down,None
+person1,236,290,None,Standing,Down,None
+person1,212,268,Happy,Standing,Down,None
+person1,185,232,Happy,Standing,Down,None
+person1,166,192,Sad,Standing,Down,None
+person1,150,151,None,Standing,Down,None
+person1,261,442,None,Walking,Down,None
+person1,292,426,None,Walking,Down,None
+person1,319,426,None,Walking,Down,None
+person1,336,428,None,Walking,Down,None
+person1,364,429,None,Walking,Down,None
+person1,382,429,None,Walking,Down,None
+person1,377,435,None,Walking,Down,None
+person1,382,437,None,Walking,Down,None
+person1,379,438,None,Walking,Down,None
+person1,373,435,None,Walking,Down,None
+person1,359,427,None,Walking,Down,None
+person1,358,403,None,Walking,Down,None
+person1,354,382,None,Walking,Down,None
+person1,346,367,None,Walking,Down,None
+person1,330,358,None,Walking,Down,None
+person1,337,355,None,Sitting,Down,None
+person1,346,365,None,Sitting,Down,None
+person1,354,372,None,Sitting,Down,None
+person1,376,375,None,Sitting,Down,None
+person1,382,377,None,Sitting,Down,Holding Book
+person1,382,378,Neutral,Sitting,Down,Reading Book
+person1,381,376,None,Sitting,Down,Holding Book
+person1,364,366,Neutral,Sitting,Down,None
+person1,362,353,None,Sitting,Down,Holding Book
+person1,354,340,None,Sitting,Down,Holding Book
+person1,349,334,None,Sitting,Down,None
+person1,357,331,None,Sitting,Down,None
+person1,353,334,Neutral,Sitting,Down,None
+person1,384,340,None,Sitting,Down,None
+person1,409,343,Neutral,Sitting,Down,None
+person1,411,347,None,Sitting,Down,None
+person1,396,350,None,Sitting,Down,None
+person1,387,350,None,Sitting,Down,None
+person1,377,350,None,Sitting,Down,Holding Book
+person1,379,345,None,Sitting,Down,None
+person1,359,338,None,Sitting,Down,Working on Computer
+person1,365,333,None,Sitting,Down,None
+person1,364,327,None,Sitting,Down,None
+person1,361,321,None,Sitting,Down,None
+person1,357,316,None,Sitting,Down,None
+person1,361,315,None,Sitting,Down,None
+person1,362,316,Neutral,Sitting,Down,None
+person1,355,319,None,Sitting,Down,None
+person1,365,321,None,Sitting,Down,None
+person1,411,324,None,Sitting,Down,None
+person1,66,332,Neutral,Sitting,Down,None
+person1,374,348,None,Sitting,Down,Working on Computer
+person1,373,355,None,Sitting,Down,None
+person1,364,365,None,Sitting,Down,Working on Computer
+person1,373,370,None,Sitting,Down,Working on Computer
+person1,384,373,None,Sitting,Down,Working on Computer
+person1,377,371,None,Sitting,Down,None
+person1,377,371,None,Sitting,Down,None
+person1,382,373,None,Sitting,Down,None
+person1,384,373,None,Sitting,Down,None
+person1,381,374,None,Sitting,Down,None
+person1,381,376,None,Sitting,Down,None
+person1,382,382,None,Sitting,Down,None
+person1,379,389,None,Sitting,Down,None
+person1,377,404,None,Sitting,Down,None
+person1,373,419,None,Sitting,Down,None
+person1,374,429,None,Sitting,Down,None
+person1,374,425,None,Sitting,Down,None
+person1,373,421,None,Sitting,Down,None
+person1,374,418,None,Sitting,Down,None
+person1,368,415,None,Sitting,Down,None
+person1,373,416,None,Sitting,Down,None
+person1,376,417,None,Sitting,Down,None
+person1,371,418,None,Sitting,Down,None
+person1,373,419,None,Sitting,Down,None
+person1,385,420,None,Sitting,Down,None
+person1,376,430,None,Sitting,Down,None
+person1,368,433,Happy,Sitting,Down,None
+person1,373,434,Happy,Sitting,Both Hands Up,None
+person1,373,434,None,Sitting,Both Hands Up,None
+person1,373,434,None,Sitting,Both Hands Up,None
+person1,365,433,None,Sitting,Both Hands Up,None
+person1,367,428,None,Sitting,Down,None
+person1,361,421,None,Sitting,Down,None
+person1,365,418,None,Sitting,Down,None
+person1,365,413,None,Sitting,Down,None
+person1,357,413,None,Sitting,Down,None
+person1,357,389,None,Sitting,Down,None
+person1,346,381,None,Sitting,Down,None
+person1,333,358,None,Sitting,Down,None
+person1,307,346,None,Sitting,Down,None
+person1,304,360,None,Standing,Down,None
+person1,295,372,None,Sitting,Down,None
+person1,288,385,Happy,Sitting,Down,None
+person1,276,384,Happy,Standing,Down,None
+person1,259,359,Happy,Standing,Down,None
+person1,243,344,Happy,Standing,Down,None
+person1,226,337,Happy,Standing,Down,None
+person1,206,337,None,Standing,Down,None
+person1,193,317,Sad,Standing,Down,None
+person1,176,299,Sad,Standing,Down,None
+person1,159,246,Sad,Standing,Down,None
+person1,139,164,Sad,Standing,Down,None
+person1,127,88,Sad,Standing,Down,None
+person1,123,88,None,Walking,Down,None
+person1,123,39,Sad,Walking,Down,None
+person1,133,73,Sad,Walking,Down,None
+person1,145,198,Sad,Walking,Down,None
+person1,158,259,Sad,Walking,Down,None
+person1,174,295,Sad,Walking,Down,None
+person1,192,332,Sad,Walking,Down,None
+person1,212,341,None,Walking,Down,None
+person1,66,328,None,Walking,Down,None
+person1,66,332,None,Walking,Left Hand Up,None
+person1,238,315,None,Walking,Right Hand Up,None
+person1,253,302,None,Sitting,Both Hands Up,None
+person1,263,298,None,Sitting,Down,None
+person1,277,298,None,Walking,Down,None
+person1,306,335,None,Sitting,Down,None
+person1,698,337,None,Sitting,Down,None
+person1,307,325,None,Sitting,Down,None
+person1,310,320,None,Sitting,Down,None
+person1,310,305,None,Sitting,Down,None
+person1,314,302,None,Sitting,Right Hand Up,None
+person1,150,166,Sad,Standing,Down,None
+person1,150,159,Sad,Standing,Down,None
+person1,150,155,Sad,Standing,Down,None
+person1,149,148,Sad,Standing,Down,None
+person1,149,147,Sad,Standing,Down,None
+person1,149,145,Sad,Standing,Down,None
+person1,147,131,Sad,Standing,Down,None
+person1,145,96,Sad,Standing,Down,None
+person1,146,106,Sad,Standing,Down,None
+person1,150,129,Sad,Standing,Down,None
+person1,162,257,Sad,Standing,Down,None
+person1,174,387,Sad,Standing,Down,Reading Book
+person1,192,445,Neutral,Standing,Down,None
+person1,206,449,Neutral,Standing,Down,Reading Book
+person1,221,460,Neutral,Standing,Down,Reading Book
+person1,230,484,None,Standing,Down,Reading Book
+person1,237,502,None,Standing,Down,Reading Book
+person1,242,531,None,Sitting,Down,Reading Book
+person1,252,554,Sad,Sitting,Down,Reading Book
+person1,259,546,Sad,Standing,Down,None
+person1,270,549,None,Sitting,Down,Reading Book
+person1,277,541,None,Sitting,Down,None
+person1,278,524,None,Walking,Down,None
+person1,283,517,None,Sitting,Down,Reading Book
+person1,284,514,None,Sitting,Down,None
+person1,270,499,Sad,Sitting,Down,Reading Book
+person1,256,499,Neutral,Sitting,Down,None
+person1,241,499,Sad,Standing,Down,None
+person1,225,483,Sad,Standing,Down,None
+person1,212,450,Sad,Standing,Down,None
+person1,201,425,Sad,Standing,Down,None
+person1,187,398,Sad,Standing,Down,Reading Book
+person1,174,387,Sad,Standing,Down,Reading Book
+person1,163,359,None,Standing,Down,None
+person1,157,322,Sad,Standing,Down,None
+person1,149,299,None,Standing,Down,None
+person1,144,258,None,Standing,Down,None
+person1,141,202,Sad,Standing,Down,None
+person1,137,175,Sad,Standing,Down,None
+person1,137,173,Sad,Standing,Down,None
+person1,137,160,Sad,Standing,Down,None
+person1,66,671,None,None,Down,None
+person1,143,518,None,Standing,Down,None
+person1,141,518,None,Standing,Down,None
+person1,141,522,Sad,Standing,Down,None
+person1,140,522,Sad,Standing,Down,None
+person1,140,523,Sad,Standing,Down,None
+person1,140,523,Sad,Standing,Down,None
+person1,141,524,Sad,Standing,Down,None
+person1,142,519,Sad,Standing,Down,None
+person1,143,515,Sad,Standing,Down,None
+person1,143,515,Sad,Standing,Down,None
+person1,144,512,Sad,Standing,Down,None
+person1,144,506,Sad,Standing,Down,None
+person1,144,503,Sad,Standing,Down,None
+person1,144,495,Sad,Standing,Down,None
+person1,144,492,Sad,Standing,Down,None
+person1,144,490,Sad,Standing,Down,None
+person1,143,491,Sad,Standing,Down,None
+person1,143,492,Sad,Standing,Down,None
+person1,144,493,Sad,Standing,Down,None
+person1,143,493,Sad,Standing,Down,None
+person1,144,494,Sad,Standing,Down,None
+person1,143,496,Sad,Standing,Down,None
+person1,143,500,Sad,Standing,Down,None
+person1,144,515,Sad,Standing,Down,None
+person1,149,507,Sad,Standing,Down,None
+person1,159,492,Sad,Standing,Down,None
+person1,173,474,Sad,Standing,Down,None
+person1,186,461,Sad,Standing,Down,None
+person1,197,468,Sad,Standing,Down,None
+person1,209,473,Sad,Standing,Down,None
+person1,210,531,Sad,Standing,Down,None
+person1,215,567,Sad,Standing,Down,None
+person1,230,571,Sad,Standing,Down,None
+person1,244,577,Sad,Sitting,Down,None
+person1,66,687,None,None,Down,None
+person1,261,587,None,Sitting,Down,None
+person1,278,548,None,Sitting,Down,None
+person1,288,521,None,Walking,Down,None
+person1,294,493,None,Walking,Down,None
+person1,299,468,None,Walking,Down,None
+person1,307,457,Sad,Walking,Down,None
+person1,307,439,None,Sitting,Down,None
+person1,304,429,Sad,Sitting,Down,None
+person1,305,418,Sad,Sitting,Down,None
+person1,315,404,Sad,Sitting,Down,None
+person1,336,411,Sad,Sitting,Down,None
+person1,359,407,Sad,Sitting,Down,None
+person1,374,412,None,Sitting,Down,None
+person1,387,416,Sad,Sitting,Both Hands Up,None
+person1,379,435,Sad,Sitting,Down,None
+person1,379,448,Sad,Sitting,Down,None
+person1,384,455,Sad,Sitting,Down,None
+person1,385,456,Sad,Sitting,Down,None
+person1,396,452,Sad,Sitting,Both Hands Up,None
+person1,389,450,None,Sitting,Down,None
+person1,387,450,None,Sitting,Down,None
+person1,392,446,None,Sitting,Down,None
+person1,396,446,None,Sitting,Down,None
+person1,385,443,Sad,Sitting,Down,None
+person1,387,442,None,Sitting,Down,None
+person1,384,443,Sad,Sitting,Left Hand Up,None
+person1,382,450,None,Sitting,Down,None
+person1,377,464,None,Walking,Down,Holding Book
+person1,373,481,Sad,Sitting,Down,None
+person1,367,514,Sad,Sitting,Down,None
+person1,357,539,Sad,Walking,Down,None
+person1,347,549,Sad,Walking,Down,None
+person1,342,548,Sad,Sitting,Down,None
+person1,342,540,Sad,Sitting,Down,None
+person1,342,533,Sad,Sitting,Down,None
+person1,342,526,Sad,Sitting,Down,None
+person1,346,522,Sad,Sitting,Down,None
+person1,351,522,Sad,Sitting,Down,None
+person1,346,515,Sad,Sitting,Down,None
+person1,350,508,Neutral,Sitting,Down,None
+person1,345,503,Neutral,Sitting,Down,None
+person1,345,500,Sad,Sitting,Down,None
+person1,347,497,Sad,Sitting,Down,None
+person1,346,497,Neutral,Sitting,Down,None
+person1,346,499,Sad,Sitting,Down,None
+person1,335,499,Sad,Sitting,Down,Holding Phone
+person1,333,489,Sad,Sitting,Down,None
+person1,333,479,Sad,Sitting,Down,None
+person1,333,470,Sad,Sitting,Down,None
+person1,333,474,Sad,Sitting,Down,None
+person1,334,475,Sad,Sitting,Down,None
+person1,336,475,Sad,Sitting,Down,None
+person1,335,476,Sad,Walking,Down,None
+person1,336,478,Sad,Sitting,Down,None
+person1,339,477,Sad,Sitting,Down,None
+person1,346,477,Sad,Sitting,Down,None
+person1,349,477,None,Sitting,Down,None
+person1,357,480,Sad,Sitting,Both Hands Up,None
+person1,374,483,Sad,Sitting,Both Hands Up,None
+person1,374,491,None,Sitting,Both Hands Up,None
+person1,374,497,Sad,Sitting,Both Hands Up,None
+person1,374,499,Neutral,Sitting,Down,Holding Phone
+person1,365,496,Neutral,Sitting,Down,None
+person1,332,495,Sad,Sitting,Down,None
+person1,322,501,Sad,Sitting,Down,None
+person1,315,504,Sad,Sitting,Down,None
+person1,306,506,Sad,Sitting,Down,None
+person1,300,493,Sad,Sitting,Down,None
+person1,299,479,Neutral,Standing,Down,None
+person1,295,482,Neutral,Standing,Down,None
+person1,283,500,Neutral,Standing,Down,None
+person1,270,531,Neutral,Standing,Down,None
+person1,259,553,Neutral,Standing,Down,None
+person1,260,568,Neutral,Standing,Down,None
+person1,255,573,Neutral,Standing,Down,None
+person1,245,586,Neutral,Standing,Down,None
+person1,229,588,Sad,Sitting,Down,None
+person1,225,575,Sad,Sitting,Down,None
+person1,220,564,Sad,Sitting,Down,None
+person1,214,575,Neutral,Sitting,Down,None
+person1,211,604,Neutral,Sitting,Down,None
+person1,210,611,Neutral,Sitting,Down,Holding Book
+person1,212,594,Neutral,Sitting,Down,None
+person1,219,587,Neutral,Sitting,Down,None
+person1,223,584,Neutral,Sitting,Down,None
+person1,226,582,Neutral,Sitting,Down,None
+person1,230,582,Neutral,Sitting,Down,None
+person1,231,582,Neutral,Sitting,Down,None
+person1,235,580,Sad,Sitting,Both Hands Up,Holding Phone
+person1,237,582,None,Walking,Right Hand Up,Calling on Phone
+person1,237,585,None,Sitting,Right Hand Up,Calling on Phone
+person1,238,594,None,Walking,Down,Calling on Phone
+person1,234,599,None,Sitting,Down,Calling on Phone
+person1,231,597,None,Walking,Down,Calling on Phone
+person1,231,597,None,Walking,Down,Calling on Phone
+person1,230,597,None,Walking,Down,Calling on Phone
+person1,228,597,None,Walking,Down,Calling on Phone
+person1,226,597,None,Walking,Down,Calling on Phone
+person1,226,597,None,Walking,Down,Calling on Phone
+person1,226,597,None,Walking,Down,Calling on Phone
+person1,225,597,None,Walking,Down,Calling on Phone
+person1,222,615,None,Walking,Down,None
+person1,220,615,None,Sitting,Down,Holding Book
+person1,223,615,None,Sitting,Down,Calling on Phone
+person1,66,615,None,Sitting,Down,None
+person1,685,615,None,Walking,Down,Holding Book
+person1,712,615,None,Walking,Down,Holding Book
+person1,725,615,None,Walking,Down,Holding Book
+person1,712,615,None,Walking,Down,Holding Book
+person1,733,615,None,Walking,Down,Holding Book
+person1,712,615,None,Walking,Down,None
+person1,679,615,None,Walking,Down,None
+person1,667,615,None,Walking,Down,None
+person1,66,615,None,Sitting,Down,None
+person1,66,615,None,Sitting,Down,None
+person1,66,615,None,Sitting,Down,None
+person1,634,615,None,Walking,Down,None
+person1,692,615,None,Walking,Down,None
+person1,705,615,None,Walking,Down,None
+person1,718,615,None,Walking,Down,None
+person1,725,615,None,Walking,Down,None
+person1,685,615,None,Walking,Down,None
+person1,679,615,None,Walking,Down,Holding Book
+person1,66,615,None,Sitting,Down,Holding Book
+person1,685,615,None,Walking,Down,Calling on Phone
+person1,679,615,None,Walking,Down,Holding Book
+person1,667,615,None,Walking,Down,None
+person1,685,615,None,Walking,Down,None
+person1,679,615,None,Walking,Down,None
+person1,66,615,None,Sitting,Down,None
+person1,220,615,None,Sitting,Down,None
+person1,214,615,None,Sitting,Down,None
+person1,221,615,None,Sitting,Down,None
+person1,222,521,None,Walking,Down,None
+person1,226,505,Sad,Walking,Down,None
+person1,224,508,Sad,Walking,Down,None
+person1,221,535,None,Sitting,Down,Holding Book
+person1,221,544,Sad,Sitting,Down,Holding Phone
+person1,66,540,None,Walking,Down,Holding Phone
+person1,66,587,Sad,Walking,Down,Holding Phone
+person1,220,600,Sad,Sitting,Down,Holding Phone
+person1,221,601,None,Sitting,Down,Holding Phone
+person1,221,602,None,Walking,Down,Calling on Phone
+person1,219,600,None,Sitting,Down,Reading Book
+person1,221,597,None,Sitting,Down,None
+person1,221,599,None,Sitting,Right Hand Up,Calling on Phone
+person1,221,594,Sad,Walking,Down,None
+person1,221,596,Sad,Walking,Down,Calling on Phone
+person1,221,594,Sad,Walking,Down,Calling on Phone
+person1,221,596,Sad,Sitting,Down,Calling on Phone
+person1,220,597,Sad,Sitting,Right Hand Up,Calling on Phone
+person1,221,598,None,Sitting,Down,Calling on Phone
+person1,219,597,Sad,Sitting,Down,Calling on Phone
+person1,221,596,Sad,Sitting,Down,Holding Phone
+person1,222,596,Sad,Sitting,Down,None
+person1,221,596,Sad,Sitting,Down,None
+person1,221,596,Sad,Sitting,Down,None
+person1,221,598,Sad,Sitting,Down,Calling on Phone
+person1,221,598,Sad,Sitting,Down,Reading Book
+person1,221,598,Sad,Sitting,Down,Calling on Phone
+person1,225,598,Sad,Sitting,Down,Holding Phone
+person1,228,593,Sad,Sitting,Down,None
+person1,231,586,Sad,Sitting,Down,Holding Phone
+person1,235,577,Sad,Sitting,Down,None
+person1,237,566,Sad,Sitting,Down,None
+person1,237,556,Sad,Sitting,Down,None
+person1,236,544,Sad,Sitting,Down,None
+person1,235,542,Sad,Sitting,Down,None
+person1,234,541,None,Walking,Down,None
+person1,233,536,Sad,Walking,Down,None
+person1,229,536,Neutral,Walking,Down,None
+person1,226,541,Neutral,Walking,Down,None
+person1,226,543,Neutral,Walking,Down,None
+person1,224,544,Sad,Walking,Down,None
+person1,223,545,Sad,Walking,Down,None
+person1,224,546,Sad,Walking,Down,None
+person1,225,542,Sad,Walking,Down,None
+person1,229,534,Neutral,Walking,Down,None
+person1,234,531,Neutral,Walking,Down,None
+person1,237,537,Neutral,Walking,Down,Holding Phone
+person1,237,554,Neutral,Sitting,Down,None
+person1,235,573,Neutral,Sitting,Right Hand Up,Holding Phone
+person1,234,583,Neutral,Sitting,Right Hand Up,None
+person1,230,591,Neutral,Sitting,Down,None
+person1,227,593,Neutral,Sitting,Down,Holding Phone
+person1,225,592,Neutral,Sitting,Down,Holding Phone
+person1,222,594,Sad,Sitting,Down,Calling on Phone
+person1,219,592,Sad,Sitting,Down,Calling on Phone
+person1,215,592,Sad,Sitting,Down,Calling on Phone
+person1,213,590,Sad,Sitting,Down,Calling on Phone
+person1,212,589,None,Sitting,Down,Reading Book
+person1,213,577,None,Walking,Down,None
+person1,214,568,None,Walking,Down,None
+person1,215,566,None,Walking,Down,None
+person1,215,567,None,Walking,Down,Holding Phone
+person1,214,571,None,Sitting,Down,Holding Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Calling on Phone
+person1,211,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Calling on Phone
+person1,215,637,None,Sitting,Down,Calling on Phone
+person1,216,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,217,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Calling on Phone
+person1,215,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,212,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,217,637,None,Sitting,Down,Reading Book
+person1,217,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,212,637,None,Sitting,Down,Reading Book
+person1,216,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,211,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,213,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,214,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,215,637,None,Sitting,Down,Reading Book
+person1,217,637,None,Sitting,Down,Reading Book
+person1,212,637,None,Sitting,Down,Reading Book
+person1,217,637,None,Sitting,Down,Reading Book
+person1,210,637,None,Sitting,Down,Reading Book
+person1,219,637,None,Sitting,Down,Calling on Phone
+person1,586,637,None,Sitting,Down,Calling on Phone
+person1,232,539,None,Sitting,Down,None
+person1,698,539,None,Walking,Down,None
+person1,698,539,None,Walking,Down,None
+person1,698,539,None,Walking,Down,None
+person1,241,351,None,Walking,Down,None
+person1,231,340,None,Walking,Down,None
+person1,66,341,Sad,Walking,Down,None
+person1,66,351,Sad,Walking,Down,None
+person1,210,351,Sad,Walking,Down,None
+person1,207,329,Sad,Walking,Down,None
+person1,203,284,Neutral,Walking,Down,None
+person1,196,240,Sad,Sitting,Down,None
+person1,187,215,Sad,Standing,Down,None
+person1,173,197,Sad,Walking,Down,None
+person1,154,166,None,Sitting,Down,None
+person1,147,148,None,Sitting,Down,None
+person1,140,96,None,Sitting,Down,None
+person1,134,45,None,Sitting,Down,None
+person1,129,45,None,Sitting,Down,None
+person1,128,77,None,Walking,Down,None
+person1,130,91,None,Walking,Down,None
+person1,128,78,None,Sitting,Down,None
+person1,129,57,None,Sitting,Down,None
+person1,129,48,None,Sitting,Down,None
+person1,129,49,None,Sitting,Down,None
+person1,130,50,None,Sitting,Down,None
+person1,130,52,None,Walking,Both Hands Up,None
+person1,131,62,None,Sitting,Down,None
+person1,184,282,Neutral,Standing,Left Hand Up,None
+person1,201,324,Neutral,Standing,Left Hand Up,None
+person1,202,385,None,Standing,Left Hand Up,None
+person1,202,413,None,Standing,Left Hand Up,None
+person1,205,421,None,Standing,Down,None
+person1,207,410,None,Standing,Left Hand Up,None
+person1,210,396,None,Standing,Left Hand Up,Calling on Phone
+person1,211,384,None,Standing,Left Hand Up,Calling on Phone
+person1,211,360,Neutral,Standing,Both Hands Up,None
+person1,216,334,None,Standing,Both Hands Up,None
+person1,219,316,None,Standing,Both Hands Up,None
+person1,221,295,None,Standing,Both Hands Up,Reading Book
+person1,220,282,None,Standing,Both Hands Up,None
+person1,218,272,None,Sitting,Both Hands Up,Reading Book
+person1,213,261,None,Sitting,Both Hands Up,Reading Book
+person1,207,254,None,Standing,Down,None
+person1,205,251,None,Standing,Down,Reading Book
+person1,204,244,None,Sitting,Both Hands Up,Reading Book
+person1,204,250,None,Sitting,Left Hand Up,None
+person1,208,258,None,Sitting,Left Hand Up,None
+person1,207,259,None,Sitting,Left Hand Up,None
+person1,209,265,None,Sitting,Left Hand Up,None
+person1,211,277,None,Sitting,Left Hand Up,None
+person1,214,287,None,Sitting,Left Hand Up,Reading Book
+person1,218,294,None,Sitting,Left Hand Up,Reading Book
+person1,220,298,None,Sitting,Left Hand Up,Reading Book
+person1,222,300,None,Sitting,Left Hand Up,Reading Book
+person1,222,301,None,Sitting,Down,Reading Book
+person1,224,304,None,Sitting,Down,Reading Book
+person1,224,304,None,Sitting,Down,Reading Book
+person1,223,304,None,Sitting,Down,Reading Book
+person1,222,304,None,Sitting,Down,Reading Book
+person1,224,307,None,Sitting,Down,Reading Book
+person1,225,308,None,Sitting,Down,Reading Book
+person1,224,311,None,Sitting,Down,Reading Book
+person1,222,311,None,Sitting,Down,Reading Book
+person1,222,303,None,Sitting,Down,Reading Book
+person1,216,303,Happy,Sitting,Both Hands Up,Reading Book
+person1,216,303,Happy,Sitting,Left Hand Up,Reading Book
+person1,210,309,Happy,Sitting,Both Hands Up,Reading Book
+person1,206,318,Happy,Sitting,Both Hands Up,Reading Book
+person1,204,328,Neutral,Sitting,Both Hands Up,Reading Book
+person1,203,334,Neutral,Sitting,Both Hands Up,None
+person1,202,338,Neutral,Sitting,Both Hands Up,None
+person1,201,338,Neutral,Sitting,Both Hands Up,None
+person1,198,338,Neutral,Sitting,Both Hands Up,None
+person1,197,337,Neutral,Sitting,Both Hands Up,None
+person1,197,335,Neutral,Standing,Both Hands Up,None
+person1,197,334,Neutral,Standing,Both Hands Up,None
+person1,196,333,Neutral,Standing,Both Hands Up,None
+person1,197,332,Neutral,Standing,Both Hands Up,None
+person1,197,332,Sad,Standing,Both Hands Up,None
+person1,196,332,Sad,Sitting,Both Hands Up,None
+person1,195,332,None,Sitting,Both Hands Up,Reading Book
+person1,196,332,None,Sitting,Both Hands Up,None
+person1,196,332,None,Sitting,Both Hands Up,None
+person1,196,335,None,Sitting,Both Hands Up,None
+person1,196,335,None,Sitting,Both Hands Up,None
+person1,196,335,None,Sitting,Both Hands Up,None
+person1,196,337,None,Sitting,Both Hands Up,None
+person1,195,337,None,Sitting,Both Hands Up,None
+person1,195,338,None,Sitting,Both Hands Up,None
+person1,195,338,None,Sitting,Both Hands Up,None
+person1,196,338,None,Sitting,Both Hands Up,None
+person1,196,337,None,Sitting,Both Hands Up,None
+person1,195,337,None,Sitting,Both Hands Up,Reading Book
+person1,196,337,None,Sitting,Both Hands Up,Reading Book
+person1,196,338,None,Sitting,Both Hands Up,None
+person1,197,339,None,Sitting,Down,Reading Book
+person1,198,339,None,Sitting,Both Hands Up,Reading Book
+person1,198,338,None,Sitting,Both Hands Up,None
+person1,200,338,None,Sitting,Left Hand Up,None
+person1,199,338,None,Sitting,Left Hand Up,None
+person1,199,339,None,Sitting,Left Hand Up,None
+person1,202,344,None,Standing,Left Hand Up,Reading Book
+person1,201,345,None,Standing,Left Hand Up,Reading Book
+person1,203,345,None,Standing,Left Hand Up,Reading Book
+person1,203,346,None,Standing,Left Hand Up,Reading Book
+person1,203,347,None,Standing,Left Hand Up,Reading Book
+person1,202,347,None,Standing,Left Hand Up,Reading Book
+person1,202,346,None,Standing,Left Hand Up,Reading Book
+person1,203,347,None,Standing,Left Hand Up,Reading Book
+person1,203,347,None,Standing,Left Hand Up,Reading Book
+person1,203,347,None,Standing,Left Hand Up,Reading Book
+person1,204,349,None,Standing,Left Hand Up,Reading Book
+person1,205,349,None,Standing,Left Hand Up,Reading Book
+person1,203,347,None,Standing,Left Hand Up,None
+person1,204,347,None,Standing,Left Hand Up,Reading Book
+person1,205,345,None,Standing,Left Hand Up,Reading Book
+person1,203,345,None,Standing,Left Hand Up,Reading Book
+person1,203,346,None,Standing,Left Hand Up,Reading Book
+person1,204,346,None,Standing,Left Hand Up,Reading Book
+person1,203,341,None,Standing,Left Hand Up,Reading Book
+person1,203,340,None,Standing,Left Hand Up,Reading Book
+person1,205,335,None,Standing,Left Hand Up,Reading Book
+person1,205,324,None,Standing,Down,Reading Book
+person1,209,319,None,Sitting,Down,Reading Book
+person1,66,319,None,Sitting,Down,None
+person1,210,329,None,Walking,Down,None
+person1,209,331,None,Walking,Down,None
+person1,207,330,None,Walking,Down,None
+person1,206,329,None,Walking,Down,None
+person1,204,326,None,Walking,Down,None
+person1,202,318,None,Walking,Down,None
+person1,196,318,Sad,Walking,Down,None
+person1,194,320,Neutral,Standing,Down,None
+person1,194,322,Neutral,Standing,Down,None
+person1,192,323,Neutral,Standing,Down,None
+person1,190,321,Neutral,Standing,Down,None
+person1,187,308,Neutral,Standing,Down,None
+person1,186,285,Neutral,Standing,Down,Holding Book
+person1,182,240,Neutral,Standing,Down,Holding Book
+person1,178,192,Neutral,Standing,Down,Holding Book
+person1,172,159,Sad,Walking,Down,Holding Book
+person1,162,152,None,Walking,Down,Holding Book
+person1,154,149,None,Walking,Down,Holding Book
+person1,145,137,None,Walking,Down,Reading Book
+person1,140,132,None,Walking,Down,Holding Book
+person1,137,128,None,Walking,Down,Reading Book
+person1,135,120,None,Walking,Down,Holding Book
+person1,135,112,None,Walking,Down,Holding Book
+person1,135,109,None,Walking,Down,Holding Book
+person1,135,110,None,Walking,Down,Holding Book
+person1,136,109,None,Walking,Down,Holding Book
+person1,136,107,None,Walking,Down,Holding Book
+person1,135,109,None,Walking,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,170,72,Sad,Sitting,Down,None
+person1,170,74,Sad,Sitting,Down,None
+person1,171,74,Sad,Sitting,Left Hand Up,None
+person1,170,74,Sad,Sitting,Down,None
+person1,170,74,Sad,Sitting,Down,None
+person1,170,72,Sad,Sitting,Down,None
+person1,170,73,Sad,Sitting,Down,None
+person1,170,77,Sad,Sitting,Down,None
+person1,169,88,Sad,Sitting,Down,None
+person1,166,107,Sad,Sitting,Down,None
+person1,162,164,Sad,Sitting,Down,None
+person1,161,236,None,Sitting,Right Hand Up,None
+person1,160,236,None,Sitting,Down,None
+person1,170,437,None,Walking,Down,None
+person1,173,479,None,Walking,Down,Reading Book
+person1,169,518,None,Walking,Down,None
+person1,158,564,None,Walking,Down,None
+person1,147,598,None,Sitting,Down,None
+person1,141,576,Sad,Sitting,Down,None
+person1,156,544,Sad,Sitting,Left Hand Up,None
+person1,163,531,None,Sitting,Down,None
+person1,175,532,None,Sitting,Down,None
+person1,200,529,None,Sitting,Down,None
+person1,673,596,None,Sitting,Down,None
+person1,685,564,None,Walking,Down,None
+person1,225,483,None,Sitting,Down,None
+person1,66,483,None,Sitting,Down,Calling on Phone
+person1,733,483,None,Walking,Down,Holding Book
+person1,718,483,None,Walking,Down,Holding Phone
+person1,718,483,None,Walking,Down,Holding Book
+person1,725,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,Holding Phone
+person1,733,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,Holding Book
+person1,725,483,None,Walking,Down,Holding Phone
+person1,733,483,None,Walking,Down,Holding Phone
+person1,740,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,Holding Phone
+person1,725,483,None,Walking,Down,None
+person1,718,483,None,Walking,Down,None
+person1,214,583,None,Walking,Down,None
+person1,215,583,None,Walking,Down,None
+person1,216,583,None,Walking,Down,None
+person1,216,583,None,Walking,Down,Holding Phone
+person1,217,583,None,Walking,Down,None
+person1,217,583,None,Walking,Down,Holding Book
+person1,219,583,None,Walking,Down,Holding Book
+person1,220,583,None,Walking,Down,Holding Book
+person1,220,583,None,Walking,Down,Holding Book
+person1,221,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Book
+person1,223,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Phone
+person1,222,583,None,Walking,Down,Holding Book
+person1,223,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Book
+person1,222,583,None,Walking,Down,Holding Phone
+person1,222,583,None,Walking,Down,Holding Phone
+person1,222,583,None,Walking,Down,Holding Phone
+person1,222,583,None,Walking,Down,Holding Phone
+person1,222,583,None,Walking,Down,Holding Phone
+person1,221,583,None,Walking,Down,Holding Phone
+person1,221,583,None,Walking,Down,Holding Phone
+person1,220,583,None,Walking,Down,Holding Phone
+person1,217,583,None,Walking,Down,Holding Phone
+person1,215,583,None,Walking,Down,Holding Phone
+person1,213,583,None,Walking,Down,Holding Book
+person1,213,583,None,Walking,Down,Holding Book
+person1,213,583,None,Walking,Down,Holding Phone
+person1,213,583,None,Walking,Down,Holding Book
+person1,213,583,None,Walking,Down,Holding Phone
+person1,213,583,None,Walking,Down,Holding Book
+person1,212,583,None,Walking,Down,Holding Phone
+person1,209,583,None,Walking,Down,Holding Phone
+person1,211,583,None,Walking,Down,Holding Book
+person1,207,583,None,Walking,Down,Holding Phone
+person1,204,583,None,Walking,Down,Holding Book
+person1,200,583,None,Walking,Down,Holding Book
+person1,198,583,None,Walking,Down,Holding Book
+person1,197,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,197,583,None,Walking,Down,Holding Book
+person1,197,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,197,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,197,583,None,Walking,Down,Holding Book
+person1,198,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,None
+person1,194,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,196,583,None,Walking,Down,Holding Book
+person1,195,583,None,Walking,Down,Holding Book
+person1,194,583,None,Walking,Down,Calling on Phone
+person1,194,583,None,Walking,Down,None
+person1,199,537,None,Walking,Down,None
+person1,199,504,None,Walking,Down,None
+person1,201,456,None,Walking,Down,None
+person1,195,456,None,Sitting,Down,None
+person1,192,456,None,Sitting,Down,None
+person1,190,456,None,Sitting,Down,None
+person1,186,456,None,Sitting,Down,None
+person1,179,420,None,Sitting,Down,None
+person1,175,420,None,Sitting,Down,None
+person1,171,420,None,Sitting,Down,None
+person1,165,420,None,Sitting,Down,None
+person1,158,420,None,Sitting,Down,None
+person1,152,396,None,Sitting,Down,None
+person1,150,376,None,Sitting,Down,None
+person1,149,376,None,Sitting,Down,None
+person1,149,376,None,Sitting,Down,None
+person1,150,376,None,Sitting,Down,None
+person1,151,376,None,Sitting,Down,None
+person1,152,376,None,Sitting,Down,None
+person1,153,376,None,Sitting,Down,None
+person1,152,376,None,Sitting,Down,None
+person1,152,376,None,Sitting,Down,None
+person1,150,319,None,Sitting,Down,None
+person1,155,319,None,Walking,Down,None
+person1,162,375,None,Sitting,Down,None
+person1,66,375,None,Sitting,Down,None
+person1,656,375,None,Walking,Down,None
+person1,190,549,None,Walking,Down,None
+person1,191,549,None,Walking,Down,None
+person1,66,549,None,Walking,Down,Calling on Phone
+person1,705,549,None,Walking,Down,Calling on Phone
+person1,712,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,712,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,718,549,None,Walking,Down,Holding Book
+person1,718,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,725,549,None,Walking,Down,Holding Book
+person1,698,549,None,Walking,Down,Holding Book
+person1,725,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,712,549,None,Walking,Down,Holding Book
+person1,698,549,None,Walking,Down,None
+person1,692,549,None,Walking,Down,Holding Book
+person1,712,549,None,Walking,Down,Holding Book
+person1,698,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,692,549,None,Walking,Down,Holding Book
+person1,705,549,None,Walking,Down,Holding Book
+person1,712,549,None,Walking,Down,None
+person1,698,549,None,Walking,Down,Holding Book
+person1,712,549,None,Walking,Down,None
+person1,194,549,None,Walking,Down,None
+person1,194,549,None,Walking,Down,None
+person1,204,549,None,Walking,Down,None
+person1,692,549,None,Walking,Down,None
+person1,196,348,Sad,Walking,Down,None
+person1,178,312,Sad,Walking,Down,None
+person1,168,316,Sad,Walking,Down,None
+person1,164,316,None,Walking,Down,None
+person1,146,150,Sad,Walking,Down,None
+person1,132,48,Sad,Walking,Down,None
+person1,131,25,Sad,Walking,Down,None
+person1,139,66,Sad,Walking,Down,None
+person1,158,267,Sad,Walking,Down,None
+person1,180,332,Sad,Walking,Down,None
+person1,208,345,Sad,Walking,Down,None
+person1,230,366,Sad,Walking,Down,None
+person1,241,428,Sad,Sitting,Down,None
+person1,249,496,Sad,Sitting,Left Hand Up,None
+person1,258,560,Sad,Sitting,Down,None
+person1,257,557,Sad,Sitting,Down,None
+person1,256,539,Sad,Sitting,Down,None
+person1,258,514,Sad,Sitting,Down,None
+person1,259,491,Sad,Sitting,Down,None
+person1,260,473,None,Sitting,Down,None
+person1,259,451,Sad,Sitting,Down,None
+person1,259,437,None,Sitting,Down,None
+person1,258,428,Sad,Walking,Down,None
+person1,261,428,Sad,Sitting,Down,None
+person1,261,431,Sad,Sitting,Down,None
+person1,259,448,None,Sitting,Down,None
+person1,260,467,None,Sitting,Down,None
+person1,265,466,None,Walking,Down,None
+person1,273,468,None,Walking,Down,None
+person1,294,467,None,Walking,Down,None
+person1,301,453,None,Walking,Down,None
+person1,312,433,None,Walking,Down,None
+person1,335,393,None,Walking,Down,None
+person1,341,365,None,Walking,Down,None
+person1,350,342,None,Walking,Down,None
+person1,370,331,None,Sitting,Down,None
+person1,367,328,None,Sitting,Down,None
+person1,355,324,Sad,Walking,Down,None
+person1,346,325,None,Walking,Down,None
+person1,336,322,None,Walking,Down,None
+person1,344,319,None,Walking,Down,None
+person1,340,316,None,Walking,Down,None
+person1,340,311,None,Walking,Down,None
+person1,330,302,None,Walking,Down,None
+person1,336,305,None,Sitting,Down,None
+person1,344,309,None,Sitting,Down,None
+person1,66,313,Sad,Sitting,Down,None
+person1,373,328,None,Sitting,Down,None
+person1,371,331,Sad,Sitting,Down,None
+person1,350,335,None,Sitting,Down,Working on Computer
+person1,351,338,None,Sitting,Down,Working on Computer
+person1,349,340,None,Sitting,Down,Working on Computer
+person1,362,344,None,Sitting,Down,Working on Computer
+person1,367,345,None,Sitting,Down,Working on Computer
+person1,365,347,None,Sitting,Down,Working on Computer
+person1,365,345,None,Sitting,Down,Working on Computer
+person1,359,344,None,Sitting,Down,Working on Computer
+person1,357,343,None,Sitting,Down,Working on Computer
+person1,354,342,None,Sitting,Down,Working on Computer
+person1,355,339,None,Sitting,Down,Working on Computer
+person1,361,317,Neutral,Sitting,Down,None
+person1,351,291,None,Sitting,Down,None
+person1,337,293,None,Standing,Down,None
+person1,66,311,Happy,Standing,Down,None
+person1,733,311,None,Standing,Down,None
+person1,307,384,Happy,Sitting,Down,None
+person1,303,391,Happy,Sitting,Down,None
+person1,291,413,Happy,Sitting,Down,None
+person1,287,456,Sad,Standing,Down,None
+person1,291,501,Sad,Standing,Down,None
+person1,293,523,Sad,Standing,Down,None
+person1,295,527,Sad,Standing,Down,None
+person1,296,518,Sad,Standing,Left Hand Up,None
+person1,298,514,Sad,Standing,Left Hand Up,None
+person1,299,511,Sad,Standing,Left Hand Up,None
+person1,297,497,Sad,Standing,Left Hand Up,None
+person1,295,442,Sad,Standing,Left Hand Up,None
+person1,295,412,Sad,Standing,Left Hand Up,None
+person1,288,399,Sad,Standing,Left Hand Up,None
+person1,278,386,None,Standing,Left Hand Up,Calling on Phone
+person1,266,381,None,Walking,Left Hand Up,Calling on Phone
+person1,260,372,None,Walking,Left Hand Up,None
+person1,262,363,None,Standing,Left Hand Up,None
+person1,265,356,None,Standing,Left Hand Up,None
+person1,263,362,None,Standing,Left Hand Up,Calling on Phone
+person1,263,352,None,Standing,Left Hand Up,Calling on Phone
+person1,263,358,Sad,Standing,Left Hand Up,Calling on Phone
+person1,263,367,Sad,Standing,Left Hand Up,Calling on Phone
+person1,262,371,Sad,Standing,Left Hand Up,Calling on Phone
+person1,261,373,Sad,Standing,Left Hand Up,Calling on Phone
+person1,261,376,Sad,Standing,Left Hand Up,Calling on Phone
+person1,260,377,Neutral,Standing,Left Hand Up,Calling on Phone
+person1,261,380,Sad,Standing,Left Hand Up,Calling on Phone
+person1,261,380,Sad,Standing,Left Hand Up,Calling on Phone
+person1,258,386,Sad,Standing,Left Hand Up,Calling on Phone
+person1,259,396,None,Sitting,Left Hand Up,Calling on Phone
+person1,260,394,None,Standing,Left Hand Up,Holding Phone
+person1,262,394,Neutral,Standing,Down,None
+person1,261,398,Neutral,Standing,Down,None
+person1,264,397,Neutral,Standing,Down,None
+person1,268,385,None,Standing,Right Hand Up,Calling on Phone
+person1,273,371,None,Standing,Right Hand Up,Calling on Phone
+person1,273,375,Neutral,Standing,Right Hand Up,None
+person1,275,391,Sad,Standing,Right Hand Up,None
+person1,274,412,None,Standing,Right Hand Up,None
+person1,275,441,Sad,Standing,Right Hand Up,None
+person1,275,462,Sad,Standing,Right Hand Up,None
+person1,275,476,Neutral,Standing,Right Hand Up,None
+person1,274,482,Sad,Sitting,Right Hand Up,None
+person1,275,472,Sad,Sitting,Right Hand Up,None
+person1,275,458,Sad,Sitting,Right Hand Up,None
+person1,273,434,Sad,Standing,Right Hand Up,None
+person1,276,408,Sad,Standing,Right Hand Up,None
+person1,276,396,Sad,Standing,Right Hand Up,None
+person1,280,387,Sad,Standing,Right Hand Up,None
+person1,278,385,Sad,Standing,Right Hand Up,None
+person1,275,381,Sad,Standing,Right Hand Up,None
+person1,269,388,Sad,Standing,Right Hand Up,None
+person1,259,391,Sad,Standing,Right Hand Up,None
+person1,252,392,Sad,Standing,Right Hand Up,None
+person1,242,406,Sad,Standing,Right Hand Up,None
+person1,240,411,Sad,Standing,Right Hand Up,None
+person1,235,419,Sad,Standing,Right Hand Up,None
+person1,235,418,Sad,Standing,Right Hand Up,None
+person1,231,417,Sad,Standing,Right Hand Up,None
+person1,227,387,Sad,Standing,Right Hand Up,None
+person1,224,364,None,Standing,Right Hand Up,Calling on Phone
+person1,222,332,Neutral,Standing,Down,None
+person1,216,309,Neutral,Standing,Down,None
+person1,205,296,Neutral,Standing,Down,None
+person1,195,290,Neutral,Standing,Down,None
+person1,181,294,Neutral,Standing,Down,None
+person1,171,295,None,Standing,Down,None
+person1,160,295,None,Standing,Down,None
+person1,150,264,Sad,Standing,Right Hand Up,None
+person1,140,181,Sad,Standing,Down,None
+person1,139,52,Happy,Sitting,Down,None
+person1,661,79,None,Walking,Down,None
+person1,698,77,None,Walking,Down,None
+person1,725,45,None,Walking,Down,None
+person1,698,92,None,Walking,Down,None
+person1,66,-13,None,None,Down,None
+person1,712,49,None,Walking,Down,None
+person1,147,37,None,Walking,Down,None
+person1,66,-113,None,None,Down,None
+person1,66,-113,None,None,Down,None
+person1,152,91,None,Walking,Down,None
+person1,151,93,None,Walking,Down,None
+person1,149,95,None,Walking,Down,None
+person1,147,93,None,Walking,Down,None
+person1,145,91,None,Walking,Down,None
+person1,143,79,None,Walking,Down,None
+person1,144,78,None,Walking,Down,None
+person1,144,79,None,Walking,Down,None
+person1,144,79,None,Walking,Down,None
+person1,147,83,None,Walking,Down,None
+person1,147,84,None,Walking,Down,None
+person1,146,83,None,Walking,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,671,None,None,Down,None
+person1,66,101,None,Sitting,Down,None
+person1,139,92,None,Sitting,Left Hand Up,None
+person1,139,89,None,Sitting,Left Hand Up,None
+person1,66,81,None,Sitting,Left Hand Up,None
+person1,66,82,None,Sitting,Down,None
+person1,144,103,None,Sitting,Down,None
+person1,66,109,None,Sitting,Down,None
+person1,140,115,None,Sitting,Left Hand Up,None
+person1,139,131,None,Sitting,Down,None
+person1,140,128,None,Sitting,Down,None
+person1,139,124,None,Sitting,Left Hand Up,None
+person1,138,117,None,Sitting,Left Hand Up,None
+person1,139,117,None,Sitting,Left Hand Up,None
+person1,141,148,None,Sitting,Down,None
+person1,66,194,None,Sitting,Down,None
+person1,154,396,None,Sitting,Down,None
+person1,154,428,None,Walking,Down,None
+person1,164,469,None,Sitting,Right Hand Up,None
+person1,178,431,None,Sitting,Down,None
+person1,182,504,Sad,Sitting,Down,None
+person1,573,532,None,Walking,Down,None
+person1,679,532,None,Walking,Down,None
+person1,679,405,None,Walking,Down,None
+person1,712,405,None,Walking,Down,None
+person1,712,405,None,Walking,Down,None
+person1,712,405,None,Walking,Down,None
+person1,679,405,None,Walking,Down,None
+person1,718,405,None,Walking,Down,None
+person1,698,405,None,Walking,Down,None
+person1,705,405,None,Walking,Down,Holding Book
+person1,685,405,None,Walking,Down,None
+person1,189,592,None,Walking,Right Hand Up,None
+person1,191,566,None,Walking,Down,None
+person1,186,571,None,Walking,Down,None
+person1,187,607,None,Walking,Right Hand Up,None
+person1,189,607,None,Walking,Down,None
+person1,191,607,None,Walking,Down,None
+person1,199,482,None,Sitting,Down,None
+person1,199,482,None,Sitting,Down,Holding Phone
+person1,199,482,None,Sitting,Down,Holding Phone
+person1,200,482,None,Sitting,Down,Holding Phone
+person1,201,482,None,Sitting,Down,Holding Phone
+person1,204,482,None,Sitting,Down,Holding Phone
+person1,215,482,None,Sitting,Down,Calling on Phone
+person1,66,482,None,Sitting,Down,None
+person1,495,482,None,Sitting,Down,Calling on Phone
+person1,534,418,None,Sitting,Down,None
+person1,534,418,None,Sitting,Down,None
+person1,240,592,None,Sitting,Down,None
+person1,242,621,None,Sitting,Down,None
+person1,243,616,None,Sitting,Down,None
+person1,230,616,None,Sitting,Down,None
+person1,217,616,None,Sitting,Down,Calling on Phone
+person1,718,401,None,Walking,Down,Holding Phone
+person1,667,401,None,Walking,Down,Holding Phone
+person1,718,401,None,Walking,Down,None
+person1,725,401,None,Walking,Down,Holding Phone
+person1,718,401,None,Walking,Down,None
+person1,698,401,None,Walking,Down,None
+person1,705,401,None,Walking,Down,Holding Phone
+person1,524,410,None,Sitting,Down,None
+person1,679,387,None,Walking,Down,Holding Book
+person1,698,394,None,Walking,Down,Holding Book
+person1,725,394,None,Walking,Down,None
+person1,692,394,None,Walking,Down,None
+person1,698,363,None,Walking,Down,None
+person1,679,398,None,Sitting,Down,None
+person1,705,392,None,Sitting,Down,None
+person1,679,383,None,Walking,Down,None
+person1,725,388,None,Walking,Down,Reading Book
+person1,685,388,None,Walking,Down,None
+person1,679,388,None,Walking,Down,None
+person1,193,594,None,Walking,Down,None
+person1,204,559,None,Walking,Down,None
+person1,192,559,None,Walking,Down,Holding Book
+person1,206,477,None,Walking,Down,Holding Book
+person1,203,478,Sad,Walking,Down,None
+person1,205,481,Sad,Walking,Down,None
+person1,213,481,Sad,Walking,Down,None
+person1,219,481,Sad,Walking,Down,None
+person1,221,480,Sad,Walking,Down,None
+person1,223,479,Sad,Walking,Down,None
+person1,219,479,Sad,Walking,Down,None
+person1,211,483,Sad,Walking,Down,None
+person1,202,492,Sad,Walking,Down,None
+person1,195,500,Sad,Walking,Down,None
+person1,194,510,None,Walking,Down,Calling on Phone
+person1,193,508,Sad,Walking,Down,None
+person1,192,505,Sad,Walking,Right Hand Up,None
+person1,193,489,Sad,Walking,Right Hand Up,None
+person1,194,462,Sad,Walking,Down,None
+person1,195,428,Sad,Walking,Down,None
+person1,198,402,Sad,Walking,Down,None
+person1,200,383,Sad,Walking,Down,None
+person1,200,365,Sad,Walking,Down,None
+person1,195,347,Sad,Walking,Right Hand Up,None
+person1,188,332,Sad,Walking,Down,None
+person1,176,323,Sad,Walking,Down,None
+person1,161,309,None,Walking,Down,None
+person1,154,305,Sad,Sitting,Down,None
+person1,146,305,None,Sitting,Down,None
+person1,135,200,None,Standing,Down,None
+person1,128,77,None,Sitting,Down,None
+person1,130,115,None,Sitting,Down,None
+person1,524,109,None,Sitting,Down,None
