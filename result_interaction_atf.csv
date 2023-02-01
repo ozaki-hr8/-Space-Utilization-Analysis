@@ -1,53 +1,53 @@
 Id,x,y,Expression,Action,Gesture,Interaction,Interact_with
-person1,182,80,Neutral,Sitting,Down,reading ,book
-person1,176,81,Neutral,Sitting,Down,reading ,book
-person1,174,82,Neutral,Sitting,Down,reading ,book
-person1,174,83,Neutral,Sitting,Down,reading ,book
-person1,173,84,Neutral,Sitting,Down,reading ,book
-person1,173,85,Neutral,Sitting,Down,reading ,book
-person1,166,86,Neutral,Sitting,Down,reading ,book
-person1,158,87,Sad,Sitting,Down,reading ,book
-person1,159,88,Neutral,Sitting,Down,reading ,book
-person1,169,89,Neutral,Sitting,Down,reading ,book
-person1,187,88,Neutral,Sitting,Down,reading ,book
-person1,195,91,Neutral,Sitting,Down,reading ,book
-person1,205,92,Neutral,Sitting,Down,reading ,book
-person1,217,93,Neutral,Sitting,Down,reading ,book
-person1,235,94,Neutral,Sitting,Down,reading ,book
-person1,248,95,Sad,Sitting,Down,reading ,book
-person1,258,96,Neutral,Sitting,Down,reading ,book
-person1,265,97,Neutral,Sitting,Down,reading ,book
-person1,274,98,Neutral,Sitting,Down,reading ,book
-person1,278,99,Sad,Sitting,Down,reading ,book
-person1,278,88,Sad,Sitting,Down,reading ,book
-person1,279,85,Sad,Sitting,Down,reading ,book
-person1,280,81,Sad,Sitting,Down,reading ,book
-person1,275,93,Sad,Sitting,Down,reading ,book
-person1,271,92,Sad,Sitting,Down,reading ,book
-person1,261,100,Sad,Sitting,Down,reading ,book
-person1,247,89,Neutral,Sitting,Down,reading ,book
-person1,233,86,Neutral,Sitting,Down,reading ,book
-person1,219,82,Happy,Sitting,Down,reading ,book
-person1,206,94,Happy,Sitting,Down,reading ,book
-person1,196,93,Happy,Sitting,Down,reading ,book
-person1,186,101,Happy,Sitting,Down,reading ,book
-person1,184,90,Happy,Sitting,Down,reading ,book
-person1,186,87,Happy,Sitting,Down,reading ,book
-person1,193,83,Sad,Standing,Both Hands Up,reading ,book
-person1,199,95,Sad,Standing,Both Hands Up,reading ,book
-person1,206,94,Sad,Standing,Both Hands Up,reading ,book
-person1,215,102,Neutral,Standing,Both Hands Up,reading ,book
-person1,224,91,Neutral,Sitting,Both Hands Up,reading ,book
-person1,230,88,Neutral,Sitting,Both Hands Up,reading ,book
-person1,228,84,Neutral,Standing,Down,reading ,book
-person1,218,96,Neutral,Walking,Down,reading ,book
-person1,203,95,Neutral,Walking,Down,reading ,book
-person1,190,103,Sad,Sitting,Down,reading ,book
-person1,177,92,Sad,Sitting,Down,reading ,book
-person1,162,89,Sad,Sitting,Down,reading ,book
-person1,150,85,Sad,Walking,Down,reading ,book
-person1,66,97,None,None,Down,reading ,book
-person1,66,96,None,None,Down,reading ,book
+person1,182,80,Neutral,Sitting,Down,reading,book
+person1,176,81,Neutral,Sitting,Down,reading,book
+person1,174,82,Neutral,Sitting,Down,reading,book
+person1,174,83,Neutral,Sitting,Down,reading,book
+person1,173,84,Neutral,Sitting,Down,reading,book
+person1,173,85,Neutral,Sitting,Down,reading,book
+person1,166,86,Neutral,Sitting,Down,reading,book
+person1,158,87,Sad,Sitting,Down,reading,book
+person1,159,88,Neutral,Sitting,Down,reading,book
+person1,169,89,Neutral,Sitting,Down,reading,book
+person1,187,88,Neutral,Sitting,Down,reading,book
+person1,195,91,Neutral,Sitting,Down,reading,book
+person1,205,92,Neutral,Sitting,Down,reading,book
+person1,217,93,Neutral,Sitting,Down,reading,book
+person1,235,94,Neutral,Sitting,Down,reading,book
+person1,248,95,Sad,Sitting,Down,reading,book
+person1,258,96,Neutral,Sitting,Down,reading,book
+person1,265,97,Neutral,Sitting,Down,reading,book
+person1,274,98,Neutral,Sitting,Down,reading,book
+person1,278,99,Sad,Sitting,Down,reading,book
+person1,278,88,Sad,Sitting,Down,reading,book
+person1,279,85,Sad,Sitting,Down,reading,book
+person1,280,81,Sad,Sitting,Down,reading,book
+person1,275,93,Sad,Sitting,Down,reading,book
+person1,271,92,Sad,Sitting,Down,reading,book
+person1,261,100,Sad,Sitting,Down,reading,book
+person1,247,89,Neutral,Sitting,Down,reading,book
+person1,233,86,Neutral,Sitting,Down,reading,book
+person1,219,82,Happy,Sitting,Down,reading,book
+person1,206,94,Happy,Sitting,Down,reading,book
+person1,196,93,Happy,Sitting,Down,reading,book
+person1,186,101,Happy,Sitting,Down,reading,book
+person1,184,90,Happy,Sitting,Down,reading,book
+person1,186,87,Happy,Sitting,Down,reading,book
+person1,193,83,Sad,Standing,Both Hands Up,reading,book
+person1,199,95,Sad,Standing,Both Hands Up,reading,book
+person1,206,94,Sad,Standing,Both Hands Up,reading,book
+person1,215,102,Neutral,Standing,Both Hands Up,reading,book
+person1,224,91,Neutral,Sitting,Both Hands Up,reading,book
+person1,230,88,Neutral,Sitting,Both Hands Up,reading,book
+person1,228,84,Neutral,Standing,Down,reading,book
+person1,218,96,Neutral,Walking,Down,reading,book
+person1,203,95,Neutral,Walking,Down,reading,book
+person1,190,103,Sad,Sitting,Down,reading,book
+person1,177,92,Sad,Sitting,Down,reading,book
+person1,162,89,Sad,Sitting,Down,reading,book
+person1,150,85,Sad,Walking,Down,reading,book
+person1,66,97,None,None,Down,reading,book
+person1,66,96,None,None,Down,reading,book
 person1,66,97,None,None,Down,holding,book
 person1,66,98,None,None,Down,holding,book
 person1,133,99,Sad,Sitting,Both Hands Up,holding,book
@@ -115,43 +115,43 @@ person1,309,332,None,Standing,Down,working,keyboard
 person1,313,323,None,Standing,Down,working,keyboard
 person1,314,312,None,Standing,Down,working,keyboard
 person1,310,322,None,Standing,Down,working,keyboard
-person1,550,535,Sad,Sitting,Down,holding,phone
-person1,548,547,Sad,Sitting,Down,holding,phone
-person1,541,540,Sad,Sitting,Left Hand Up,holding,phone
-person1,551,536,Sad,Sitting,Down,holding,phone
-person1,549,548,Sad,Sitting,Down,holding,phone
-person1,542,541,Sad,Sitting,Down,holding,phone
-person1,552,537,Sad,Sitting,Down,holding,phone
-person1,550,549,Sad,Sitting,Down,holding,phone
-person1,543,542,Sad,Sitting,Down,holding,phone
-person1,553,538,Sad,Sitting,Down,holding,phone
-person1,551,536,None,Standing,Left Hand Up,calling,phone
-person1,549,548,None,Walking,Left Hand Up,calling,phone
-person1,542,541,None,Standing,Left Hand Up,calling,phone
-person1,552,537,None,Standing,Left Hand Up,calling,phone
-person1,550,549,Sad,Standing,Left Hand Up,calling,phone
-person1,543,542,Sad,Standing,Left Hand Up,calling,phone
-person1,553,538,Sad,Standing,Left Hand Up,calling,phone
-person1,551,550,Sad,Standing,Left Hand Up,calling,phone
-person1,544,543,Sad,Standing,Left Hand Up,calling,phone
-person1,554,539,Neutral,Standing,Left Hand Up,calling,phone
-person1,552,537,Sad,Standing,Left Hand Up,calling,phone
-person1,550,549,Sad,Standing,Left Hand Up,calling,phone
-person1,543,542,Sad,Standing,Left Hand Up,calling,phone
-person1,553,538,None,Sitting,Left Hand Up,calling,phone
-person1,551,550,None,Standing,Left Hand Up,calling,phone
-person1,551,550,None,Standing,Right Hand Up,calling,phone
-person1,544,543,None,Standing,Right Hand Up,calling,phone
-person1,554,539,None,Walking,Down,calling,phone
-person1,552,551,None,Sitting,Down,calling,phone
-person1,552,551,None,Sitting,Down,calling,phone
-person1,545,544,None,Sitting,Down,calling,phone
-person1,555,540,None,Sitting,Down,calling,phone
-person1,553,552,None,Sitting,Down,calling,phone
-person1,553,552,None,Sitting,Down,calling,phone
-person1,556,541,None,Sitting,Down,calling,phone
-person1,548,547,None,Sitting,Down,calling,phone
-person1,558,543,None,Walking,Down,calling,phone
-person1,556,555,None,Walking,Down,calling,phone
-person1,549,548,None,Walking,Down,calling,phone
-person1,557,556,None,Walking,Down,calling,phone
+person1,550,535,Sad,Sitting,Down,holding,bottle
+person1,548,547,Sad,Sitting,Down,holding,bottle
+person1,541,540,Sad,Sitting,Left Hand Up,holding,bottle
+person1,551,536,Sad,Sitting,Down,holding,bottle
+person1,549,548,Sad,Sitting,Down,holding,bottle
+person1,542,541,Sad,Sitting,Down,holding,bottle
+person1,552,537,Sad,Sitting,Down,holding,bottle
+person1,550,549,Sad,Sitting,Down,holding,bottle
+person1,543,542,Sad,Sitting,Down,holding,bottle
+person1,553,538,Sad,Sitting,Down,holding,bottle
+person1,551,536,None,Standing,Left Hand Up,drinking,bottle
+person1,549,548,None,Walking,Left Hand Up,drinking,bottle
+person1,542,541,None,Standing,Left Hand Up,drinking,bottle
+person1,552,537,None,Standing,Left Hand Up,drinking,bottle
+person1,550,549,Sad,Standing,Left Hand Up,drinking,bottle
+person1,543,542,Sad,Standing,Left Hand Up,drinking,bottle
+person1,553,538,Sad,Standing,Left Hand Up,drinking,bottle
+person1,551,550,Sad,Standing,Left Hand Up,drinking,bottle
+person1,544,543,Sad,Standing,Left Hand Up,drinking,bottle
+person1,554,539,Neutral,Standing,Left Hand Up,drinking,bottle
+person1,552,537,Sad,Standing,Left Hand Up,drinking,bottle
+person1,550,549,Sad,Standing,Left Hand Up,drinking,bottle
+person1,543,542,Sad,Standing,Left Hand Up,drinking,bottle
+person1,553,538,None,Sitting,Left Hand Up,drinking,bottle
+person1,551,550,None,Standing,Left Hand Up,drinking,bottle
+person1,551,550,None,Standing,Right Hand Up,drinking,bottle
+person1,544,543,None,Standing,Right Hand Up,drinking,bottle
+person1,554,539,None,Walking,Down,drinking,bottle
+person1,552,551,None,Sitting,Down,drinking,bottle
+person1,552,551,None,Sitting,Down,drinking,bottle
+person1,545,544,None,Sitting,Down,drinking,bottle
+person1,555,540,None,Sitting,Down,drinking,bottle
+person1,553,552,None,Sitting,Down,drinking,bottle
+person1,553,552,None,Sitting,Down,drinking,bottle
+person1,556,541,None,Sitting,Down,drinking,bottle
+person1,548,547,None,Sitting,Down,drinking,bottle
+person1,558,543,None,Walking,Down,drinking,bottle
+person1,556,555,None,Walking,Down,drinking,bottle
+person1,549,548,None,Walking,Down,drinking,bottle
+person1,557,556,None,Walking,Down,drinking,bottle

@@ -1,0 +1,431 @@
+Id,x,y,Expression,Action,Gesture,Interaction,Interact_with
+person1,182,80,Neutral,Sitting,Down,reading ,book
+person1,176,81,Neutral,Sitting,Down,reading ,book
+person1,174,82,Neutral,Sitting,Down,reading ,book
+person1,174,83,Neutral,Sitting,Down,reading ,book
+person1,173,84,Neutral,Sitting,Down,reading ,book
+person1,173,85,Neutral,Sitting,Down,reading ,book
+person1,166,86,Neutral,Sitting,Down,reading ,book
+person1,158,87,Sad,Sitting,Down,reading ,book
+person1,159,88,Neutral,Sitting,Down,reading ,book
+person1,169,89,Neutral,Sitting,Down,reading ,book
+person1,187,88,Neutral,Sitting,Down,reading ,book
+person1,195,91,Neutral,Sitting,Down,reading ,book
+person1,205,92,Neutral,Sitting,Down,reading ,book
+person1,217,93,Neutral,Sitting,Down,reading ,book
+person1,235,94,Neutral,Sitting,Down,reading ,book
+person1,248,95,Sad,Sitting,Down,reading ,book
+person1,258,96,Neutral,Sitting,Down,reading ,book
+person1,265,97,Neutral,Sitting,Down,reading ,book
+person1,274,98,Neutral,Sitting,Down,reading ,book
+person1,278,99,Sad,Sitting,Down,reading ,book
+person1,278,88,Sad,Sitting,Down,reading ,book
+person1,279,85,Sad,Sitting,Down,reading ,book
+person1,280,81,Sad,Sitting,Down,reading ,book
+person1,275,93,Sad,Sitting,Down,reading ,book
+person1,271,92,Sad,Sitting,Down,reading ,book
+person1,261,100,Sad,Sitting,Down,reading ,book
+person1,247,89,Neutral,Sitting,Down,reading ,book
+person1,233,86,Neutral,Sitting,Down,reading ,book
+person1,219,82,Happy,Sitting,Down,reading ,book
+person1,206,94,Happy,Sitting,Down,reading ,book
+person1,196,93,Happy,Sitting,Down,reading ,book
+person1,186,101,Happy,Sitting,Down,reading ,book
+person1,184,90,Happy,Sitting,Down,reading ,book
+person1,186,87,Happy,Sitting,Down,reading ,book
+person1,193,83,Sad,Standing,Both Hands Up,reading ,book
+person1,199,95,Sad,Standing,Both Hands Up,reading ,book
+person1,206,94,Sad,Standing,Both Hands Up,reading ,book
+person1,215,102,Neutral,Standing,Both Hands Up,reading ,book
+person1,224,91,Neutral,Sitting,Both Hands Up,reading ,book
+person1,230,88,Neutral,Sitting,Both Hands Up,reading ,book
+person1,228,84,Neutral,Standing,Down,reading ,book
+person1,218,96,Neutral,Walking,Down,reading ,book
+person1,203,95,Neutral,Walking,Down,reading ,book
+person1,190,103,Sad,Sitting,Down,reading ,book
+person1,177,92,Sad,Sitting,Down,reading ,book
+person1,162,89,Sad,Sitting,Down,reading ,book
+person1,150,85,Sad,Walking,Down,reading ,book
+person1,66,97,None,None,Down,reading ,book
+person1,66,96,None,None,Down,reading ,book
+person1,66,97,None,None,Down,holding,book
+person1,66,98,None,None,Down,holding,book
+person1,133,99,Sad,Sitting,Both Hands Up,holding,book
+person1,136,88,Sad,Sitting,Down,holding,book
+person1,146,85,Neutral,Walking,Down,holding,book
+person1,161,81,Neutral,Sitting,Down,holding,book
+person1,175,93,Neutral,Sitting,Down,holding,book
+person1,185,92,Neutral,Sitting,Down,holding,book
+person1,191,100,Neutral,Sitting,Down,holding,book
+person1,191,89,Neutral,Sitting,Down,holding,book
+person1,184,86,Neutral,Sitting,Down,holding,book
+person1,177,82,Neutral,Sitting,Down,holding,book
+person1,167,97,Sad,Sitting,Down,holding,book
+person1,163,98,Sad,Sitting,Down,holding,book
+person1,166,99,Neutral,Sitting,Down,holding,book
+person1,169,100,Neutral,Sitting,Down,holding,book
+person1,173,89,Neutral,Sitting,Down,holding,book
+person1,175,86,Neutral,Sitting,Down,holding,book
+person1,174,82,Sad,Sitting,Down,holding,book
+person1,172,94,Sad,Walking,Down,holding,book
+person1,163,93,Sad,Walking,Down,holding,book
+person1,156,101,None,Walking,Down,holding,book
+person1,156,90,Sad,Walking,Down,holding,book
+person1,155,87,Sad,Walking,Down,holding,book
+person1,153,83,Sad,Sitting,Down,holding,book
+person1,148,98,Sad,Walking,Down,holding,book
+person1,146,99,Sad,Walking,Down,holding,book
+person1,145,100,Sad,Sitting,Down,holding,book
+person1,151,101,Sad,Sitting,Down,holding,book
+person1,162,90,Sad,Sitting,Down,holding,book
+person1,171,87,Sad,Sitting,Down,holding,book
+person1,175,83,Sad,Sitting,Down,holding,book
+person1,180,95,Sad,Sitting,Down,holding,book
+person1,187,94,None,Walking,Down,holding,book
+person1,202,102,None,Walking,Down,holding,book
+person1,208,91,None,Walking,Down,holding,book
+person1,228,88,None,Walking,Down,holding,book
+person1,304,376,None,Sitting,Down,working,keyboard
+person1,305,377,None,Sitting,Down,working,keyboard
+person1,301,378,None,Sitting,Down,working,keyboard
+person1,305,371,None,Walking,Down,working,keyboard
+person1,306,374,None,Walking,Down,working,keyboard
+person1,302,375,None,Walking,Down,working,keyboard
+person1,306,372,None,Walking,Down,working,keyboard
+person1,307,375,None,Walking,Down,working,keyboard
+person1,303,376,None,Walking,Down,working,keyboard
+person1,307,373,None,Walking,Down,working,keyboard
+person1,308,376,None,Walking,Down,working,keyboard
+person1,304,377,None,Walking,Down,working,keyboard
+person1,308,374,None,Walking,Down,working,keyboard
+person1,309,377,None,Walking,Down,working,keyboard
+person1,305,378,None,Walking,Down,working,keyboard
+person1,309,375,None,Walking,Down,working,keyboard
+person1,310,378,None,Walking,Down,working,keyboard
+person1,306,379,None,Walking,Down,working,keyboard
+person1,310,376,None,Walking,Down,working,keyboard
+person1,311,379,None,Walking,Down,working,keyboard
+person1,307,380,None,Walking,Down,working,keyboard
+person1,311,349,None,Walking,Down,working,keyboard
+person1,312,349,None,Walking,Down,working,keyboard
+person1,308,349,None,Sitting,Down,working,keyboard
+person1,312,348,None,Sitting,Down,working,keyboard
+person1,313,343,None,Sitting,Down,working,keyboard
+person1,309,332,None,Standing,Down,working,keyboard
+person1,313,323,None,Standing,Down,working,keyboard
+person1,314,312,None,Standing,Down,working,keyboard
+person1,310,322,None,Standing,Down,working,keyboard
+person1,550,535,Sad,Sitting,Down,holding,phone
+person1,548,547,Sad,Sitting,Down,holding,phone
+person1,541,540,Sad,Sitting,Left Hand Up,holding,phone
+person1,551,536,Sad,Sitting,Down,holding,phone
+person1,549,548,Sad,Sitting,Down,holding,phone
+person1,542,541,Sad,Sitting,Down,holding,phone
+person1,552,537,Sad,Sitting,Down,holding,phone
+person1,550,549,Sad,Sitting,Down,holding,phone
+person1,543,542,Sad,Sitting,Down,holding,phone
+person1,553,538,Sad,Sitting,Down,holding,phone
+person1,551,536,None,Standing,Left Hand Up,calling,phone
+person1,549,548,None,Walking,Left Hand Up,calling,phone
+person1,542,541,None,Standing,Left Hand Up,calling,phone
+person1,552,537,None,Standing,Left Hand Up,calling,phone
+person1,550,549,Sad,Standing,Left Hand Up,calling,phone
+person1,543,542,Sad,Standing,Left Hand Up,calling,phone
+person1,553,538,Sad,Standing,Left Hand Up,calling,phone
+person1,551,550,Sad,Standing,Left Hand Up,calling,phone
+person1,544,543,Sad,Standing,Left Hand Up,calling,phone
+person1,554,539,Neutral,Standing,Left Hand Up,calling,phone
+person1,552,537,Sad,Standing,Left Hand Up,calling,phone
+person1,550,549,Sad,Standing,Left Hand Up,calling,phone
+person1,543,542,Sad,Standing,Left Hand Up,calling,phone
+person1,553,538,None,Sitting,Left Hand Up,calling,phone
+person1,551,550,None,Standing,Left Hand Up,calling,phone
+person1,551,550,None,Standing,Right Hand Up,calling,phone
+person1,544,543,None,Standing,Right Hand Up,calling,phone
+person1,554,539,None,Walking,Down,calling,phone
+person1,552,551,None,Sitting,Down,calling,phone
+person1,552,551,None,Sitting,Down,calling,phone
+person1,545,544,None,Sitting,Down,calling,phone
+person1,555,540,None,Sitting,Down,calling,phone
+person1,553,552,None,Sitting,Down,calling,phone
+person1,553,552,None,Sitting,Down,calling,phone
+person1,556,541,None,Sitting,Down,calling,phone
+person1,548,547,None,Sitting,Down,calling,phone
+person1,558,543,None,Walking,Down,calling,phone
+person1,556,555,None,Walking,Down,calling,phone
+person1,549,548,None,Walking,Down,calling,phone
+person1,557,556,None,Walking,Down,calling,phone
+,305,278,,,,,
+,309,279,,,,,
+,310,280,,,,,
+,306,291,,,,,
+,310,282,,,,,
+,311,282,,,,,
+,307,282,,,,,
+,311,283,,,,,
+,312,284,,,,,
+,308,285,,,,,
+,312,286,,,,,
+,316,287,,,,,
+,317,288,,,,,
+,315,290,,,,,
+,315,291,,,,,
+,320,292,,,,,
+,314,293,,,,,
+,308,294,,,,,
+,308,295,,,,,
+,308,296,,,,,
+,308,297,,,,,
+,308,298,,,,,
+,305,266,,,,,
+,309,265,,,,,
+,310,264,,,,,
+,306,263,,,,,
+,310,262,,,,,
+,311,261,,,,,
+,307,260,,,,,
+,305,259,,,,,
+,309,258,,,,,
+,310,257,,,,,
+,306,256,,,,,
+,310,255,,,,,
+,311,254,,,,,
+,307,253,,,,,
+,312,252,,,,,
+,312,251,,,,,
+,312,250,,,,,
+,312,249,,,,,
+,312,248,,,,,
+,312,247,,,,,
+,315,246,,,,,
+,315,245,,,,,
+,320,244,,,,,
+,314,243,,,,,
+,308,242,,,,,
+,308,241,,,,,
+,308,240,,,,,
+,319,239,,,,,
+,315,238,,,,,
+,315,237,,,,,
+,315,236,,,,,
+,315,235,,,,,
+,315,234,,,,,
+,315,233,,,,,
+,315,232,,,,,
+,315,231,,,,,
+,315,230,,,,,
+,315,229,,,,,
+,315,228,,,,,
+,315,227,,,,,
+,315,226,,,,,
+,315,225,,,,,
+,315,224,,,,,
+,315,223,,,,,
+,315,222,,,,,
+,315,221,,,,,
+,315,220,,,,,
+,311,219,,,,,
+,312,218,,,,,
+,313,217,,,,,
+,314,216,,,,,
+,315,215,,,,,
+,316,214,,,,,
+,317,213,,,,,
+,318,212,,,,,
+,315,217,,,,,
+,315,210,,,,,
+,315,209,,,,,
+,316,208,,,,,
+,317,207,,,,,
+,318,206,,,,,
+,315,205,,,,,
+,315,204,,,,,
+,316,220,,,,,
+,317,202,,,,,
+,318,220,,,,,
+,315,217,,,,,
+,315,214,,,,,
+,316,211,,,,,
+,317,208,,,,,
+,318,205,,,,,
+,315,202,,,,,
+,315,199,,,,,
+,318,196,,,,,
+,315,193,,,,,
+,315,190,,,,,
+,316,187,,,,,
+,317,184,,,,,
+,318,181,,,,,
+,315,178,,,,,
+,315,175,,,,,
+,316,172,,,,,
+,317,169,,,,,
+,315,166,,,,,
+,315,163,,,,,
+,316,160,,,,,
+,317,157,,,,,
+,318,154,,,,,
+,315,151,,,,,
+,315,148,,,,,
+,316,145,,,,,
+,317,142,,,,,
+,315,139,,,,,
+,315,136,,,,,
+,316,133,,,,,
+,317,130,,,,,
+,318,127,,,,,
+,315,124,,,,,
+,315,121,,,,,
+,316,118,,,,,
+,317,115,,,,,
+,315,112,,,,,
+,315,109,,,,,
+,316,106,,,,,
+,316,270,,,,,
+,318,272,,,,,
+,320,271,,,,,
+,322,267,,,,,
+,324,270,,,,,
+,326,272,,,,,
+,328,271,,,,,
+,330,267,,,,,
+,332,270,,,,,
+,334,267.5,,,,,
+,336,266.5,,,,,
+,338,265.5,,,,,
+,340,245,,,,,
+,342,253,,,,,
+,344,250,,,,,
+,346,254.3333333,,,,,
+,348,245.2619048,,,,,
+,350,242.2261905,,,,,
+,352,239.1904762,,,,,
+,354,236.1547619,,,,,
+,356,247.5,,,,,
+,358,246.5,,,,,
+,360,245.5,,,,,
+,362,244.5,,,,,
+,364,243.5,,,,,
+,366,267.5,,,,,
+,368,266.5,,,,,
+,370,265.5,,,,,
+,372,245,,,,,
+,374,253,,,,,
+,376,250,,,,,
+,378,254.3333333,,,,,
+,380,245.2619048,,,,,
+,382,242.2261905,,,,,
+,384,239.1904762,,,,,
+,386,241.5,,,,,
+,388,240.5,,,,,
+,390,239.5,,,,,
+,392,270,,,,,
+,394,272,,,,,
+,396,271,,,,,
+,398,267,,,,,
+,490.7,594,,,,,
+,491.4,586,,,,,
+,492.1,575,,,,,
+,492.8,564,,,,,
+,493.5,555,,,,,
+,494.2,550,,,,,
+,494.9,544,,,,,
+,495.6,549,,,,,
+,496.3,555,,,,,
+,497,562,,,,,
+,497.7,562,,,,,
+,400,403,,,,,
+,397,406,,,,,
+,401,409,,,,,
+,400.3333333,410,,,,,
+,400.8333333,415,,,,,
+,401.3333333,417,,,,,
+,401.8333333,419.8,,,,,
+,402.3333333,422.6,,,,,
+,402.8333333,425.4,,,,,
+,403.3333333,428.2,,,,,
+,403.8333333,431,,,,,
+,404.3333333,433.8,,,,,
+,400,436.6,,,,,
+,397,439.4,,,,,
+,401,442.2,,,,,
+,400.3333333,445,,,,,
+,400.8333333,447.8,,,,,
+,401.3333333,450.6,,,,,
+,401.8333333,453.4,,,,,
+,402.3333333,456.2,,,,,
+,402.8333333,459,,,,,
+,402.3333333,461.8,,,,,
+,402.8333333,464.6,,,,,
+,403.3333333,467.4,,,,,
+,403.8333333,470.2,,,,,
+,404.3333333,473,,,,,
+,400,475.8,,,,,
+,397,478.6,,,,,
+,401,481.4,,,,,
+,402.3333333,484.2,,,,,
+,402.8333333,487,,,,,
+,403.3333333,489.8,,,,,
+,403.8333333,492.6,,,,,
+,404.3333333,495.4,,,,,
+,400,498.2,,,,,
+,397,501,,,,,
+,401,398,,,,,
+,402.3333333,392,,,,,
+,402.8333333,383,,,,,
+,403.8888889,376,,,,,
+,404.8055556,368.5,,,,,
+,405.7222222,361,,,,,
+,406.6388889,353.5,,,,,
+,407.5555556,346,,,,,
+,408.4722222,338.5,,,,,
+,409.3888889,331,,,,,
+,410.3055556,323.5,,,,,
+,411.2222222,316,,,,,
+,412.1388889,308.5,,,,,
+,413.0555556,301,,,,,
+,413.9722222,293.5,,,,,
+,414.8888889,286,,,,,
+,415.8055556,278.5,,,,,
+,416.7222222,271,,,,,
+,569,523,,,,,
+,562,530,,,,,
+,561,524,,,,,
+,556,526.6666667,,,,,
+,552,527.1666667,,,,,
+,548,527.6666667,,,,,
+,544,528.1666667,,,,,
+,540,528.6666667,,,,,
+,536,529.1666667,,,,,
+,532,529.6666667,,,,,
+,528,530.1666667,,,,,
+,524,530.6666667,,,,,
+,520,531.1666667,,,,,
+,516,531.6666667,,,,,
+,512,532.1666667,,,,,
+,508,532.6666667,,,,,
+,504,523,,,,,
+,500,530,,,,,
+,496,524,,,,,
+,492,526.6666667,,,,,
+,488,527.1666667,,,,,
+,484,527.6666667,,,,,
+,480,528.1666667,,,,,
+,473,520,,,,,
+,470,530,,,,,
+,465.5714286,525,,,,,
+,461.1428571,525.9166667,,,,,
+,456.7142857,525.9666667,,,,,
+,452.2857143,526.0166667,,,,,
+,447.8571429,526.0666667,,,,,
+,443.4285714,526.1166667,,,,,
+,439,526.1666667,,,,,
+,434.5714286,526.2166667,,,,,
+,430.1428571,526.2666667,,,,,
+,425.7142857,526.3166667,,,,,
+,421.2857143,526.3666667,,,,,
+,416.8508634,523,,,,,
+,412.4241758,520,,,,,
+,407.9974882,517,,,,,
+,403.5708006,514,,,,,
+,399.144113,511,,,,,
